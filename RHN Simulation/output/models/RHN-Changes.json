@@ -1,0 +1,49 @@
+{
+    "Demand Change":{
+        "Junction-8":[-5,-0.024],
+        "Junction-9":[-4,-0.019],
+        "Junction-11":[6,0.029]
+    },
+    "Pipe Removal":["Pipe-1","Pipe-11"],
+    "Subtraction Sink":["Junction-10","Junction-13"],
+    "Addition Sink":{
+        "Junction-14":{
+            "X-Coordinate":0, 
+            "Y-Coordinate":0,
+            "Category":"A",
+            "Priority":100,
+            "Base Demand [kW]":0,
+            "Base Demand [kg/s]":0},
+        "Junction-15":{
+            "X-Coordinate":0,
+            "Y-Coordinate":0,
+            "Category":"A",
+            "Priority":100,
+            "Base Demand [kW]":0,
+            "Base Demand [kg/s]":0
+        }
+    },
+    "Subtraction Junction":["Junction-1","Junction-3"],
+    "Addition Junction":{
+        "Junction-16":{
+            "X-Coordinate":0,
+            "Y-Coordinate":0,
+            "Z-Coordinate":0
+        },
+        "Junction-17":{
+            "X-Coordinate":0,
+            "Y-Coordinate":0,
+            "Z-Coordinate":0
+        }    
+    },
+    "Subtraction Storage Tank":["Junction-17"],
+    "Addition Storage Tank":{
+        "Junction-18":{
+            "X-Coordinate":0,
+            "Y-Coordinate":0,
+            "Category":"A",
+            "Priority":100,
+            "Capacity":0
+        }
+    }
+}

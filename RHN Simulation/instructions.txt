@@ -1,0 +1,13 @@
+Here's the remote heating network simulation files as of Dec 30th 2024. Some instructions:
+
+- All initial data from Fortum is in the Initial data folder. I advise to have these files as they are and not modify them, if you need to edit make a copy.
+- Initial data also includes energy prices and network flow/return temp information.
+- When setting up a development environment, I suggest using a virtual environment for the project.
+
+Required Python packages are listed in requirements.txt, you can use pip install -r requirements.txt to install them.
+The above does not include the pandapipes package, as you need to install the development version. The development version is included as pandapipes-develop.zip. See this to get started: https://www.pandapipes.org/start/
+
+To actually use it, do this:
+- Familiarize yourself with Pandapipes-RHN-Full.ipynp. This program imports the raw data from data/Data.xlsx and creates a simulation model. Some of the simulation parameters can be set in the beginning of the program file, some function specific settings can be found next to said functions.
+- Once you have ran Pandapipes-RHN-Full.ipynp you can use Timeseries-Simulation-Visualisation.ipynb to run the time series simulation. Note the time series settings/parameters in the notebook, for instance amount of time steps. Data (for instance consumer demand) for each time step is specified in data/timeseries_xxx.xlsx.
+- The visualisation part after the time series simulation program file is work in progress. I used Jupyter Lab at Anaconda Cloud to develop the visualisation until it was broken by a service provider update.

@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------
+PipeflowNotConverged                      Traceback (most recent call last)
+Cell In[53], line 3
+      1 ## Run pipeflow
+----> 3 pp.pipeflow(net, mode='bidirectional') # Modes = sequential, bidirectional
+      5 #print(net.res_heat_consumer) # Modes = res_heat_consumer, res_junction, res_pipe, res_circ_pump_pressure
+
+File c:\Users\Victus\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandapipes\pipeflow.py:92, in pipeflow(net, sol_vec, **kwargs)
+     90     raise UserWarning("No proper calculation mode chosen.")
+     91 elif calculate_bidrect:
+---> 92     bidirectional(net)
+     93 else:
+     94     if calculate_hydraulics:
+
+File c:\Users\Victus\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandapipes\pipeflow.py:166, in bidirectional(net)
+    164     set_user_pf_options(net, hyd_flag=True)
+    165 if not get_net_option(net, "reuse_internal_data"):
+--> 166     net.pop("_internal_data", None)
+    167 if not net.converged:
+    168     raise PipeflowNotConverged("The bidrectional calculation did not converge to a solution.")
+
+PipeflowNotConverged: The bidrectional calculation did not converge to a solution.

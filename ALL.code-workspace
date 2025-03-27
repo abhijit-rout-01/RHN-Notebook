@@ -1,0 +1,39 @@
+{
+	"folders": [
+		{
+			"name": "CPP",
+			"path": "F:/Programs/CPP"
+		},
+		{
+			"name": "Task01a",
+			"path": "F:/Programs/Task01a"
+		},
+		{
+			"name": "Task06",
+			"path": "F:/Programs/Task06"
+		},
+		{
+			"path": "F:/Programs/twitter-movie-analyzer"
+		},
+		{
+			"path": "F:/Programs/Test"
+		},
+		{
+			"path": "F:/Programs/Task07"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Sem_6/Actual Content/RHN Simulation/pandapipes-develop/tutorials"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "twitter-movie-analyzer",
+		"files.associations": {
+			"*.ejs": "html",
+			"iostream": "cpp",
+			"iosfwd": "cpp"
+		}
+	}
+}

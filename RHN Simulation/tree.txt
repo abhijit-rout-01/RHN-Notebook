@@ -1,0 +1,1357 @@
+Sarfvik Kirkkonummi 
+Junction-6737 Junction-2040 
+Junction-6630 Junction-128917 Junction-2039 Junction-116892 
+Junction-7838 Junction-127510 Junction-126962 Junction-3306 Junction-127533 Junction-116891 
+Junction-127300 Junction-127158 Junction-20377 Junction-127514 Junction-116901 
+Junction-127293 Junction-127376 Junction-105140 Junction-127516 Junction-30414 Junction-9556 Junction-118151 
+Junction-127340 Junction-127332 Junction-105118 Junction-16565 Junction-127534 Junction-10018 Junction-100266 Junction-9915 
+Junction-127302 Junction-111225 Junction-17746 Junction-2359 Junction-9551 Junction-100110 Junction-100264 Junction-100267 Junction-9917 
+Junction-111228 Junction-14261 Junction-17656 Junction-2160 Junction-9494 Junction-99702 Junction-100107 Junction-100111 Junction-17528 Junction-12744 
+Junction-33148 Junction-7795 Junction-39039 Junction-2150 Junction-2251 Junction-19194 Junction-12748 
+Junction-31915 Junction-7883 Junction-59203 Junction-99634 Junction-2360 Junction-18913 Junction-19191 Junction-100388 
+Junction-42407 Junction-7879 Junction-14279 Junction-99635 Junction-99375 Junction-99053 Junction-1395 Junction-18916 Junction-2340 Junction-19185 Junction-19192 Junction-33432 
+Junction-43595 Junction-41442 Ericsson Junction-14292 Junction-50028 Junction-99373 Junction-99376 Junction-99054 Junction-99323 Junction-736 Junction-1396 Junction-98040 Junction-2330 Junction-100225 Junction-100231 Junction-33431 Junction-99321 
+Junction-41523 Junction-128439 Junction-101660 Junction-29936 Junction-14297 Junction-99377 Junction-99424 Junction-99822 Junction-60613 Junction-99519 Junction-127385 Junction-100381 Junction-100228 Junction-36767 Junction-99018 Junction-99182 Junction-99319 
+Junction-6013 Junction-42099 Junction-128440 Junction-19908 Junction-29936 Junction-58617 Junction-7222 Junction-23736 Junction-34547 Junction-99052 Junction-127386 Junction-100382 Junction-99974 Junction-100224 Junction-100229 Junction-23339 Junction-35871 Junction-99019 Junction-51737 Junction-99559 
+Junction-5699 Junction-7434 Junction-10100 Junction-19916 Junction-21588 Junction-6487 Junction-47090 Junction-34191 Junction-99781 Junction-99051 Junction-99048 Junction-127387 Junction-100050 Junction-99121 Junction-100220 Junction-100227 Junction-22540 Junction-36471 Junction-99783 Junction-98710 Junction-51524 Junction-99304 
+Junction-7443 Junction-165 Junction-10097 Junction-19911 Junction-46131 Junction-7613 Junction-48557 Junction-40889 Junction-36047 Junction-99890 Junction-99690 Junction-100043 Junction-127383 Junction-127406 Junction-100052 Junction-99115 Junction-99119 Junction-99613 Junction-4721 Junction-23337 Junction-36469 Junction-56146 Junction-100239 Junction-99326 Junction-34444 Junction-6217 Junction-51072 Junction-100124 
+Junction-7442 Junction-192 Junction-111193 Junction-10094 Junction-10099 Junction-47223 Junction-47600 Junction-7614 Junction-41060 Junction-13715 Junction-41031 Junction-41026 Junction-64134 Junction-73296 Junction-37844 Junction-100042 Junction-127382 Junction-2140 Junction-99114 Junction-100054 Junction-4720 Junction-41683 Junction-39721 Junction-115208 Junction-56147 Junction-100402 Junction-100086 Junction-69578 Junction-22175 Junction-36476 Junction-5882 Junction-50787 Junction-54948 Junction-28458 
+Junction-111223 Junction-111171 Junction-8165 Junction-10095 Junction-9137 Junction-21321 Junction-16340 Junction-66224 Junction-99307 Junction-36258 Junction-27498 Junction-36301 Junction-99292 Junction-73295 Junction-73297 Junction-35697 Junction-37845 Junction-127924 Junction-2042 Junction-2147 Junction-99395 Junction-4719 Junction-41587 Junction-41740 Junction-40794 Junction-39719 Junction-37596 Junction-117566 Junction-100403 Junction-100094 Junction-100121 Junction-73674 Junction-36301 Junction-99286 Junction-37316 Junction-59693 Junction-50786 Junction-29012 Junction-29352 
+Junction-111213 Junction-127219 Junction-8150 Junction-129143 Junction-32355 Junction-9115 Junction-1044 Junction-16338 Junction-13700 Junction-68937 Junction-17173 Junction-26248 Junction-35697 Junction-36773 Junction-76786 Junction-98878 Junction-99593 Junction-128160 Junction-100261 Junction-98860 Junction-100035 Junction-99130 Junction-100058 Junction-2964 Junction-18873 Kantvik_EMP Junction-41266 Junction-41582 Junction-38006 Junction-41716 Junction-37591 Junction-52889 Junction-100097 Junction-100100 Junction-100156 Junction-29632 Junction-41940 Junction-56361 Junction-54179 Junction-29939 
+Junction-127208 Junction-129143 Junction-129113 Junction-32353 Junction-10260 Junction-9041 Junction-1114 Junction-105540 Junction-15720 Junction-98830 Junction-116686 Junction-66227 Junction-68938 Junction-16837 Junction-27501 Junction-122930 Junction-21265 Junction-98879 Junction-98882 Junction-100102 Junction-100103 Junction-127409 Junction-128164 Junction-98858 Junction-65528 Junction-99528 Junction-97775 Junction-98849 Junction-47088 Junction-2961 Junction-18874 Junction-7518 Junction-41577 Junction-37303 Junction-41107 Junction-51508 Junction-48555 Junction-100096 Junction-100098 Junction-29629 Junction-25486 Junction-58769 Junction-40767 Junction-20761 
+Junction-128333 Junction-128334 Junction-129111 Junction-1933 Junction-32703 Junction-10258 Junction-31656 Junction-1036 Junction-105814 Junction-16557 Junction-100420 Junction-99032 Junction-20819 Junction-118160 Junction-34033 Junction-23720 Junction-25543 Junction-98873 Junction-98881 Junction-127410 Junction-128162 Junction-127446 Junction-99111 Junction-127171 Junction-97774 Junction-40791 Junction-98844 Junction-46129 Junction-99133 Junction-5297 Junction-7055 Junction-41572 Junction-42686 Junction-37299 Junction-114744 Junction-21263 Junction-51026 Junction-25472 Junction-31990 Junction-41095 Junction-53612 Junction-19699 
+Junction-129109 Junction-129106 Junction-32591 Junction-33920 Junction-31469 Junction-32340 Junction-916 Junction-907 Junction-105812 Junction-75386 Junction-99651 Junction-65389 Junction-20306 Junction-19267 Junction-25321 Junction-107214 Junction-98869 Junction-98874 Junction-127380 Junction-105276 Junction-100287 Junction-127162 Junction-40770 Junction-100179 Junction-98867 Junction-99790 Junction-5284 Junction-16220 Junction-7028 Junction-4122 Kummihovi_EMP Junction-37788 Junction-42763 Junction-34334 Junction-117594 Junction-21264 Junction-23009 Junction-38294 Junction-31937 Junction-106092 Junction-47904 Junction-54634 Junction-19701 Junction-7161 
+Junction-129107 Junction-1398 Junction-32358 Junction-32344 Junction-22919 Junction-32341 Junction-909 Junction-919 Junction-106088 Junction-105813 Junction-105811 Junction-71707 Junction-75387 Junction-99647 Junction-99653 Junction-98922 Junction-99247 Junction-22022 Junction-19701 Junction-19266 Junction-19268 Junction-106507 Junction-35760 Junction-9802 Junction-98870 Junction-98875 Junction-98876 Junction-127378 Junction-127411 Junction-105282 Junction-41008 Junction-127160 Junction-127164 Junction-99110 Junction-98909 Junction-1143 Junction-3911 Junction-15021 Junction-16232 Junction-6657 Junction-4108 Junction-47852 Junction-35245 Junction-34248 Junction-34156 Junction-47603 Junction-38245 Junction-49190 Junction-106090 Junction-35794 Junction-52874 Junction-50404 Junction-32090 Junction-7150 Junction-19666 
+Junction-31545 Junction-32586 Junction-22908 Junction-31466 Junction-97113 Junction-98243 Junction-920 Junction-106048 Junction-105810 Junction-71599 Junction-76728 Junction-75752 Junction-37885 Junction-99723 Junction-111147 Junction-9981 Junction-44920 Junction-106504 Junction-9698 Junction-99110 Junction-127442 Junction-127464 Junction-100427 Junction-99237 Junction-99525 Junction-99368 Junction-99013 Junction-99010 Junction-97937 Junction-98910 Junction-98907 Junction-1124 Junction-1928 Junction-3493 Junction-33839 Junction-47851 Junction-49026 Junction-32957 Junction-34155 Junction-38595 Junction-41058 Junction-35793 Junction-106504 Junction-50470 Junction-53505 Junction-7285 
+Junction-17137 Junction-31788 Junction-26998 Junction-20284 Junction-32382 Junction-98676 Junction-97373 Junction-917 Junction-33846 Junction-106045 Junction-106055 Junction-72077 Junction-75388 Junction-75753 Junction-37884 Junction-100318 Junction-54118 Junction-98919 Junction-111142 Junction-21644 Junction-9808 Junction-18065 Junction-106326 Junction-127438 Junction-127493 Junction-99238 Junction-105274 Junction-99526 Junction-100018 Junction-16278 Junction-30728 Junction-99830 Junction-8112 Junction-9252 Junction-9492 Junction-98908 Junction-98912 Junction-1917 Junction-46849 Junction-46121 Junction-41049 Junction-50272 Junction-51625 Junction-57893 Junction-7270 Junction-7612 
+Junction-32382 Junction-19740 Junction-6643 Junction-120722 Junction-97751 Junction-97180 Junction-33847 Junction-34066 Junction-98228 Junction-41284 Junction-106057 Junction-75389 Junction-76989 Junction-99819 Junction-54115 Junction-99727 Junction-3489 Junction-942 Junction-9809 Junction-103455 Junction-99485 Junction-19274 Junction-106327 Junction-106501 Junction-127417 Junction-127412 Junction-50281 Junction-100262 Junction-74498 Junction-100019 Junction-16187 Junction-100359 Junction-30575 Junction-99360 Junction-33957 Junction-99082 Junction-99006 Junction-97934 Junction-99198 Junction-46225 Junction-49024 Junction-43566 Junction-49563 Junction-52417 Junction-52634 Junction-51622 Junction-54119 Junction-41082 Junction-65709 Junction-16605 Junction-21783 
+Junction-6583 Junction-120721 Junction-97749 Junction-97898 Junction-9062 Junction-34067 Junction-98582 Junction-98673 Junction-1704 Junction-54809 Junction-3397 Junction-1164 Junction-6834 Junction-10392 Junction-103313 Junction-98841 Junction-127414 Junction-127596 Junction-127413 Junction-51815 Junction-50282 Junction-98926 Junction-99703 Junction-41620 Junction-99361 Junction-99364 Junction-33952 Junction-99598 Junction-99081 Junction-99080 Junction-96224 Junction-99438 Junction-50328 Junction-48324 Junction-43562 Junction-52254 Junction-38586 Junction-54599 Junction-51620 Junction-54121 Junction-40892 Junction-11218 Junction-21775 
+Junction-120847 Junction-3165 Junction-897 Junction-105560 Junction-98583 Junction-1694 Junction-4364 Junction-6716 Junction-6835 Junction-111208 Junction-128816 Junction-98833 Junction-18016 Junction-100277 Junction-97767 Junction-97770 Junction-98927 Junction-100269 Junction-99330 Junction-100332 Junction-41619 Junction-99363 Junction-99277 Junction-99079 Junction-64021 Junction-96222 Junction-96226 Junction-99350 Junction-55566 Junction-48318 Junction-51044 Junction-47936 Junction-52250 Junction-17125 Junction-39113 Junction-54075 Junction-54123 Junction-10823 Junction-43191 
+Junction-97753 Junction-3224 Junction-894 Junction-53865 Junction-105543 Junction-101919 Junction-4079 Junction-98224 Junction-2365 Junction-21896 Junction-111196 Junction-9986 Junction-128595 Junction-128637 Junction-18013 Junction-99655 Junction-99539 Junction-100278 Junction-99902 Junction-97769 Junction-99645 Junction-99866 Junction-45717 Junction-100334 Junction-100333 Junction-100357 Junction-41711 Junction-98936 Junction-99278 Junction-99075 Junction-99828 Junction-2227 Junction-26246 Junction-99351 Junction-99803 Junction-55565 Junction-99472 Junction-50299 Junction-50025 Junction-47934 Junction-51548 Junction-11647 Junction-9944 Junction-44635 
+Junction-97754 Junction-94517 Junction-53866 Junction-53867 Junction-102990 Junction-30008 Junction-129191 Junction-21646 Junction-128600 Junction-103003 Junction-2100 Junction-2103 Junction-99536 Junction-100274 Junction-99889 Junction-100335 Junction-99760 Junction-100444 Junction-39156 Junction-100168 Junction-98765 Junction-99693 Junction-99076 Junction-99077 Junction-99756 Junction-99073 Junction-2226 Junction-24920 Junction-99473 Junction-99693 Junction-52026 Junction-28618 Junction-49938 Junction-54387 Junction-9946 Junction-11651 Junction-9860 
+Junction-94512 Junction-95634 Junction-3673 Junction-29994 Junction-105411 Junction-129171 Junction-130756 Junction-17278 Junction-15414 Junction-18033 Junction-18008 Junction-99534 Junction-99537 Junction-99538 Junction-100272 Junction-100275 Junction-98724 Junction-100336 Junction-100290 Junction-100443 Junction-64013 Junction-42748 Junction-99671 Junction-99755 Junction-99757 Junction-99074 Junction-99936 Junction-2238 Junction-2237 Junction-18843 Junction-25489 Junction-102036 Junction-49415 Junction-29873 
+Junction-93415 Junction-95635 Junction-129775 Junction-4076 Junction-129282 Junction-129145 Junction-127286 Junction-17277 Junction-18843 Junction-2097 Junction-2098 Junction-18841 Junction-17277 Junction-37011 Junction-99535 Junction-100273 Junction-128246 Junction-98725 Junction-99884 Junction-100438 Junction-100439 Junction-100291 Junction-100292 Junction-39152 Junction-99479 Junction-99668 Junction-99226 Junction-127246 Junction-49349 Junction-15412 Junction-18841 Junction-2228 Junction-102637 Junction-48688 Junction-29864 
+Junction-95020 Junction-94950 Junction-3968 Junction-111157 Junction-129272 Junction-128250 Junction-129097 Junction-129148 Junction-127268 Junction-66675 Junction-99004 Junction-18017 Junction-18024 Junction-18017 Junction-17342 Junction-2228 Junction-36016 Junction-1475 Junction-127537 Junction-99540 Junction-98720 Junction-98722 Junction-100293 Junction-100294 Junction-39150 Junction-10519 Junction-99484 Junction-99794 Junction-99701 Junction-99880 Junction-128253 Junction-99876 Junction-99878 Junction-18021 Junction-61093 Junction-50999 Junction-111155 
+Junction-102277 Junction-96958 Junction-127234 Junction-111160 Junction-98397 Junction-127650 Junction-3565 Junction-129256 Junction-129149 Junction-128285 Junction-128286 Junction-96962 Junction-127265 Junction-20195 Junction-2091 Junction-2009 Junction-2006 Junction-1489 Junction-127538 Junction-99542 Junction-131108 Junction-98719 Junction-98721 Junction-98723 Junction-99630 Junction-100295 Junction-100305 Junction-10202 Junction-55861 Junction-99881 Junction-99874 Junction-99877 Junction-2091 Junction-2007 Junction-100172 Junction-49604 Junction-26996 Junction-111150 Junction-27084 
+Junction-103322 Junction-95215 Junction-95284 Junction-98390 Junction-127222 Junction-3534 Junction-96514 Junction-96512 Junction-96963 Junction-127314 Junction-128234 Junction-98465 Junction-20194 Junction-20196 Junction-29484 Junction-300 Junction-2007 Junction-18027 Junction-2007 Junction-18027 Junction-1477 Junction-1510 Junction-128247 Junction-98717 Junction-100340 Junction-100436 Junction-100437 Junction-99626 Junction-99631 Junction-100440 Junction-100296 Junction-11221 Junction-53615 Junction-74927 Junction-99872 Junction-99875 Junction-49052 Junction-49142 Junction-26989 Junction-51163 Junction-27239 
+Junction-103293 Junction-95216 Junction-95285 Junction-95286 Junction-3552 Junction-128432 Junction-96454 Junction-97499 Junction-96810 Junction-98399 Junction-98261 Junction-98262 Junction-127291 Junction-127197 Junction-128233 Junction-128230 Junction-116837 Junction-98461 Junction-18899 Junction-998 Junction-100368 Junction-1503 Junction-1501 Junction-99544 Junction-100271 Junction-98718 Junction-100339 Junction-99627 Junction-99628 Junction-99632 Junction-100337 Junction-100441 Junction-100442 Junction-100297 Junction-100298 Junction-46680 Junction-39059 Junction-99870 Junction-99873 Junction-47093 Junction-49413 Junction-49141 Junction-13761 
+Junction-95240 Junction-95354 Junction-96849 Junction-128433 Junction-3421 Junction-94619 Junction-94616 Junction-97501 Junction-98264 Junction-127181 Junction-128231 Junction-18900 Junction-19576 Junction-956 Junction-954 Junction-9548 Junction-129103 Junction-1512 Junction-1491 Junction-1471 Junction-99513 Junction-100338 Junction-100299 Junction-100300 Neidonkallio_EMP_2 Junction-37605 Junction-65236 Junction-39069 Junction-99869 Junction-99871 Junction-49757 Junction-50461 Junction-13742 
+Junction-95242 Junction-96634 Junction-96845 Junction-96850 Junction-96577 Junction-97299 Junction-127174 Junction-127182 Junction-19616 Junction-20691 Junction-19612 Junction-21554 Junction-945 Junction-10595 Junction-99816 Junction-129248 Junction-129250 Junction-100104 Junction-100105 Junction-1470 Junction-1455 Junction-99186 Junction-99515 Junction-100301 Junction-100303 Junction-37396 Junction-39122 Junction-39122 Junction-65376 Junction-100246 Junction-100249 Junction-49754 Junction-50187 Junction-15027 
+Junction-96635 Junction-96846 Junction-95085 Junction-97159 Junction-97575 Junction-96900 Junction-127184 Junction-19621 Junction-19611 Junction-19575 Junction-99818 Junction-129043 Junction-1472 Junction-1459 Junction-105562 Junction-99517 Junction-99826 Junction-64662 Junction-38652 Junction-6710 Junction-100247 Junction-50392 Junction-46214 
+Junction-95084 Junction-40961 Junction-129247 Junction-97160 Junction-97576 Junction-94894 Junction-19573 Junction-20655 Junction-98729 Junction-1473 Junction-1457 Junction-1461 Junction-99516 Junction-99625 Junction-99461 Junction-99827 Junction-48140 Junction-64230 Junction-38805 Junction-84540 Junction-6592 Junction-100245 Junction-100039 Junction-46212 Junction-46223 
+Junction-84173 Junction-97993 Junction-97997 Junction-129285 Junction-50543 Junction-19572 Junction-19608 Junction-20230 Junction-21636 Junction-1941 Junction-1513 Junction-99094 Junction-99462 Junction-48626 Junction-65234 Junction-63624 Junction-38803 Junction-6712 Junction-100288 Junction-100289 Junction-46217 Junction-46228 
+Junction-46597 Junction-45979 Junction-41132 Junction-19606 Junction-20234 Junction-21635 Junction-21859 Junction-100240 Junction-100241 Junction-99095 Junction-99096 Junction-99093 Junction-99463 Junction-63769 Junction-64275 Junction-38905 Junction-38195 Junction-38786 Junction-38492 Junction-46923 Junction-47855 
+Junction-26973 Junction-64781 Junction-20664 Junction-20232 Junction-20236 Junction-99464 Junction-99089 Junction-37544 Junction-70718 Junction-38706 Junction-58780 Junction-67965 Junction-37764 Junction-50652 
+Junction-27615 Junction-17058 Junction-64780 Junction-95618 Junction-20663 Junction-22041 Junction-99090 Junction-99088 Junction-55177 Junction-37550 Junction-37764 Junction-58647 Junction-56012 Junction-67964 Junction-67966 Junction-65240 
+Junction-16793 Junction-95940 Junction-95942 Junction-22039 Junction-99087 Junction-99465 Junction-99466 Junction-58790 Junction-36951 Junction-38356 Junction-58481 
+Junction-71596 Junction-31657 Junction-20237 Junction-99467 Junction-99083 Junction-58784 Junction-38463 Junction-36968 Junction-37780 Junction-38353 Junction-68672 
+Junction-114781 Junction-73054 Junction-34250 Junction-42312 Junction-20238 Junction-20656 Junction-99084 Junction-99085 Junction-38460 Junction-56780 Junction-37782 Junction-39409 Junction-49268 Junction-49794 
+Junction-42173 Junction-72630 Junction-72632 Junction-77288 Junction-42178 Junction-42761 Junction-20659 Junction-22045 Junction-64665 Junction-65680 Junction-56779 Junction-45888 Junction-36958 Junction-66516 Junction-68862 Junction-54882 
+Junction-55365 Junction-97918 Junction-73056 Junction-98413 Junction-20661 Junction-20653 Junction-22905 Junction-64664 Junction-45254 Junction-60532 Junction-36960 Junction-61715 Junction-38449 
+Junction-54877 Junction-65818 Junction-60533 Junction-67029 Junction-60758 Junction-65373 Junction-38817 Junction-50972 
+Junction-55179 Junction-67935 Junction-74257 Junction-61769 Junction-36962 Junction-21414 Junction-47050 
+Junction-74258 Junction-75222 Junction-61767 Junction-65422 Junction-47051 Junction-48274 
+Junction-57062 Hommaksenkaari_EMP Junction-36967 Junction-63760 Junction-60463 Junction-49267 
+Junction-38425 Neidonkallio_EMP_1 Junction-48315 Junction-54909 
+Junction-38343 Junction-39145 Junction-48312 Junction-115682 Junction-52880 Junction-55173 
+Junction-37727 Junction-48934 
+Junction-37731 Junction-38429 Junction-57301 
+Junction-38427 
+
+
+Nodes:
+Name		parent		Children
+
+Sarfvik          -1          {'Junction-6737': 'Pipe-102854'}
+Kirkkonummi          -1          {'Junction-2040': 'Pipe-58425'}
+Ericsson          Junction-7879          {'Junction-101660': 'Pipe-102920'}
+Hommaksenkaari_EMP          Junction-74258          {}
+Junction-165          Junction-7434          {'Junction-192': 'Pipe-191', 'Junction-111193': 'Pipe-116488'}
+Junction-192          Junction-165          {}
+Junction-300          Junction-2009          {'Junction-18899': 'Pipe-17863', 'Junction-998': 'Pipe-134497'}
+Junction-736          Junction-1395          {}
+Junction-894          Junction-897          {}
+Junction-897          Junction-9062          {'Junction-894': 'Pipe-843', 'Junction-53865': 'Pipe-50945'}
+Junction-907          Junction-1036          {'Junction-106088': 'Pipe-108299'}
+Junction-909          Junction-916          {'Junction-98243': 'Pipe-99055'}
+Junction-916          Junction-1036          {'Junction-909': 'Pipe-862', 'Junction-919': 'Pipe-867'}
+Junction-917          Junction-920          {'Junction-97180': 'Pipe-110786'}
+Junction-919          Junction-916          {'Junction-920': 'Pipe-865'}
+Junction-920          Junction-919          {'Junction-917': 'Pipe-99520', 'Junction-33846': 'Pipe-99651'}
+Junction-942          Junction-21644          {'Junction-1164': 'Pipe-876', 'Junction-6834': 'Pipe-20890'}
+Junction-945          Junction-954          {}
+Junction-954          Junction-998          {'Junction-945': 'Pipe-892'}
+Junction-956          Junction-998          {}
+Junction-998          Junction-300          {'Junction-956': 'Pipe-925', 'Junction-954': 'Pipe-938'}
+Junction-1036          Junction-105540          {'Junction-916': 'Pipe-973', 'Junction-907': 'Pipe-975'}
+Junction-1044          Junction-21321          {'Junction-1114': 'Pipe-1088', 'Junction-105540': 'Pipe-108313'}
+Junction-1114          Junction-1044          {}
+Junction-1124          Junction-1143          {}
+Junction-1143          Junction-5284          {'Junction-1124': 'Pipe-1055', 'Junction-1928': 'Pipe-2090'}
+Junction-1164          Junction-942          {}
+Junction-1395          Junction-2360          {'Junction-736': 'Pipe-696', 'Junction-1396': 'Pipe-1324'}
+Junction-1396          Junction-1395          {'Junction-99822': 'Pipe-100986', 'Junction-60613': 'Pipe-101229'}
+Junction-1398          Junction-32591          {}
+Junction-1455          Junction-1471          {'Junction-1459': 'Pipe-1382', 'Junction-105562': 'Pipe-107032'}
+Junction-1457          Junction-1459          {'Junction-1941': 'Pipe-1857'}
+Junction-1459          Junction-1455          {'Junction-1457': 'Pipe-1385', 'Junction-1461': 'Pipe-1394'}
+Junction-1461          Junction-1459          {'Junction-1513': 'Pipe-1441'}
+Junction-1470          Junction-1471          {'Junction-1472': 'Pipe-100638'}
+Junction-1471          Junction-1501          {'Junction-1470': 'Pipe-1398', 'Junction-1455': 'Pipe-1881'}
+Junction-1472          Junction-1470          {'Junction-1473': 'Pipe-1400'}
+Junction-1473          Junction-1472          {}
+Junction-1475          Junction-37011          {'Junction-1489': 'Pipe-1880'}
+Junction-1477          Junction-1489          {}
+Junction-1489          Junction-1475          {'Junction-1477': 'Pipe-1409', 'Junction-1510': 'Pipe-1876'}
+Junction-1491          Junction-1501          {}
+Junction-1501          Junction-1510          {'Junction-1491': 'Pipe-1422', 'Junction-1471': 'Pipe-1867'}
+Junction-1503          Junction-1510          {'Junction-1512': 'Pipe-1437'}
+Junction-1510          Junction-1489          {'Junction-1503': 'Pipe-1435', 'Junction-1501': 'Pipe-1875'}
+Junction-1512          Junction-1503          {'Junction-100104': 'Pipe-101371', 'Junction-100105': 'Pipe-101372'}
+Junction-1513          Junction-1461          {'Junction-100240': 'Pipe-101561', 'Junction-100241': 'Pipe-101562'}
+Junction-1694          Junction-1704          {}
+Junction-1704          Junction-106057          {'Junction-1694': 'Pipe-1620', 'Junction-4364': 'Pipe-99033'}
+Junction-1917          Junction-1928          {}
+Junction-1928          Junction-1143          {'Junction-1917': 'Pipe-1839'}
+Junction-1933          Junction-32353          {}
+Junction-1941          Junction-1457          {}
+Junction-2006          Junction-17342          {'Junction-2007': 'Pipe-1911', 'Junction-18027': 'Pipe-17165'}
+Junction-2007          Junction-2006          {}
+Junction-2009          Junction-18024          {'Junction-300': 'Pipe-16506', 'Junction-2007': 'Pipe-16512', 'Junction-18027': 'Pipe-17163'}
+Junction-2039          Junction-2040          {'Junction-3306': 'Pipe-1923', 'Junction-127533': 'Pipe-136112'}
+Junction-2040          Kirkkonummi          {'Junction-2039': 'Pipe-1941', 'Junction-116892': 'Pipe-123841'}
+Junction-2042          Junction-2140          {'Junction-100261': 'Pipe-101598'}
+Junction-2091          Junction-18021          {'Junction-29484': 'Pipe-28121'}
+Junction-2097          Junction-15414          {'Junction-18017': 'Pipe-1992', 'Junction-18024': 'Pipe-17156'}
+Junction-2098          Junction-18033          {'Junction-18017': 'Pipe-17169', 'Junction-17342': 'Pipe-19478'}
+Junction-2100          Junction-18013          {'Junction-17278': 'Pipe-17140', 'Junction-15414': 'Pipe-19454'}
+Junction-2103          Junction-18013          {'Junction-18033': 'Pipe-2003', 'Junction-18008': 'Pipe-17143'}
+Junction-2140          Junction-127406          {'Junction-2042': 'Pipe-2017', 'Junction-2147': 'Pipe-2032'}
+Junction-2147          Junction-2140          {'Junction-98860': 'Pipe-101038', 'Junction-100035': 'Pipe-101351'}
+Junction-2150          Junction-2160          {'Junction-99634': 'Pipe-2036'}
+Junction-2160          Junction-2359          {'Junction-2150': 'Pipe-2039', 'Junction-2251': 'Pipe-2139'}
+Junction-2226          Junction-2227          {'Junction-2238': 'Pipe-2120', 'Junction-2237': 'Pipe-2121', 'Junction-18843': 'Pipe-14719'}
+Junction-2227          Junction-96222          {'Junction-2226': 'Pipe-2113'}
+Junction-2228          Junction-18841          {'Junction-61093': 'Pipe-101475'}
+Junction-2237          Junction-2226          {'Junction-18841': 'Pipe-19465'}
+Junction-2238          Junction-2226          {'Junction-15412': 'Pipe-2123'}
+Junction-2251          Junction-2160          {'Junction-2360': 'Pipe-2227'}
+Junction-2330          Junction-2340          {}
+Junction-2340          Junction-18913          {'Junction-2330': 'Pipe-2209'}
+Junction-2359          Junction-127534          {'Junction-2160': 'Pipe-2162'}
+Junction-2360          Junction-2251          {'Junction-99053': 'Pipe-100063', 'Junction-1395': 'Pipe-100987'}
+Junction-2365          Junction-6835          {}
+Junction-2961          Junction-2964          {'Junction-5297': 'Pipe-5099'}
+Junction-2964          Junction-4719          {'Junction-2961': 'Pipe-2830'}
+Junction-3165          Junction-97749          {'Junction-3224': 'Pipe-116043'}
+Junction-3224          Junction-3165          {'Junction-94517': 'Pipe-3104'}
+Junction-3306          Junction-2039          {}
+Junction-3397          Junction-3489          {}
+Junction-3421          Junction-128432          {}
+Junction-3489          Junction-21644          {'Junction-3397': 'Pipe-3360'}
+Junction-3493          Junction-3911          {}
+Junction-3534          Junction-127234          {'Junction-3552': 'Pipe-3419', 'Junction-128432': 'Pipe-134638'}
+Junction-3552          Junction-3534          {}
+Junction-3565          Junction-128250          {}
+Junction-3673          Junction-102990          {'Junction-4076': 'Pipe-99290', 'Junction-129282': 'Pipe-134658'}
+Junction-3911          Junction-5284          {'Junction-3493': 'Pipe-3751'}
+Junction-3968          Junction-4076          {'Junction-127234': 'Pipe-134654'}
+Junction-4076          Junction-3673          {'Junction-3968': 'Pipe-5539', 'Junction-111157': 'Pipe-116102'}
+Junction-4079          Junction-4364          {}
+Junction-4108          Junction-4122          {}
+Junction-4122          Junction-7055          {'Junction-4108': 'Pipe-3944'}
+Junction-4364          Junction-1704          {'Junction-4079': 'Pipe-3910', 'Junction-98224': 'Pipe-99037'}
+Junction-4719          Junction-4720          {'Junction-2964': 'Pipe-2927'}
+Junction-4720          Junction-4721          {'Junction-4719': 'Pipe-4553'}
+Junction-4721          Junction-22540          {'Junction-4720': 'Pipe-4554'}
+Junction-5284          Junction-5297          {'Junction-1143': 'Pipe-2100', 'Junction-3911': 'Pipe-6042'}
+Junction-5297          Junction-2961          {'Junction-5284': 'Pipe-5091', 'Junction-16220': 'Pipe-15479'}
+Junction-5699          Junction-6013          {}
+Junction-5882          Junction-6217          {}
+Junction-6013          Junction-41523          {'Junction-5699': 'Pipe-5789', 'Junction-7434': 'Pipe-7335'}
+Junction-6217          Junction-51524          {'Junction-5882': 'Pipe-5942', 'Junction-50787': 'Pipe-48205'}
+Junction-6487          Junction-7222          {'Junction-7613': 'Pipe-7470'}
+Junction-6583          Junction-6643          {}
+Junction-6592          Junction-6710          {'Junction-6712': 'Pipe-6483'}
+Junction-6630          Junction-6737          {'Junction-7838': 'Pipe-6393'}
+Junction-6643          Junction-32382          {'Junction-6583': 'Pipe-6355'}
+Junction-6657          Junction-7028          {}
+Junction-6710          Junction-100246          {'Junction-6592': 'Pipe-6211', 'Junction-100245': 'Pipe-101570', 'Junction-100039': 'Pipe-101571'}
+Junction-6712          Junction-6592          {}
+Junction-6716          Junction-6834          {}
+Junction-6737          Sarfvik          {'Junction-6630': 'Pipe-6499', 'Junction-128917': 'Pipe-56521'}
+Junction-6834          Junction-942          {'Junction-6716': 'Pipe-6489', 'Junction-6835': 'Pipe-6607'}
+Junction-6835          Junction-6834          {'Junction-2365': 'Pipe-2240', 'Junction-21896': 'Pipe-20886'}
+Junction-7028          Junction-7055          {'Junction-6657': 'Pipe-6735'}
+Junction-7055          Junction-7518          {'Junction-7028': 'Pipe-6825', 'Junction-4122': 'Pipe-7166'}
+Junction-7150          Junction-7161          {}
+Junction-7161          Junction-19699          {'Junction-7150': 'Pipe-6930', 'Junction-19666': 'Pipe-7041'}
+Junction-7222          Junction-14297          {'Junction-6487': 'Pipe-6998', 'Junction-47090': 'Pipe-67461'}
+Junction-7270          Junction-7285          {}
+Junction-7285          Junction-19666          {'Junction-7270': 'Pipe-7047', 'Junction-7612': 'Pipe-7387'}
+Junction-7434          Junction-6013          {'Junction-7443': 'Pipe-7220', 'Junction-165': 'Pipe-7923'}
+Junction-7442          Junction-7443          {'Junction-111223': 'Pipe-116287'}
+Junction-7443          Junction-7434          {'Junction-7442': 'Pipe-7218'}
+Junction-7518          Junction-18873          {'Junction-7055': 'Pipe-7271'}
+Junction-7612          Junction-7285          {'Junction-16605': 'Pipe-15855', 'Junction-21783': 'Pipe-18639'}
+Junction-7613          Junction-6487          {'Junction-7614': 'Pipe-7388'}
+Junction-7614          Junction-7613          {}
+Junction-7795          Junction-14261          {'Junction-7883': 'Pipe-7570', 'Junction-59203': 'Pipe-55374'}
+Junction-7838          Junction-6630          {}
+Junction-7879          Junction-7883          {'Ericsson': 'Pipe-7663'}
+Junction-7883          Junction-7795          {'Junction-7879': 'Pipe-7666'}
+Junction-8112          Junction-99010          {'Junction-99082': 'Pipe-100094', 'Junction-99006': 'Pipe-100095'}
+Junction-8150          Junction-8165          {}
+Junction-8165          Junction-111193          {'Junction-8150': 'Pipe-7927', 'Junction-129143': 'Pipe-134865'}
+Junction-9041          Junction-9115          {'Junction-31656': 'Pipe-99304'}
+Junction-9062          Junction-97180          {'Junction-897': 'Pipe-8800', 'Junction-105560': 'Pipe-93431'}
+Junction-9115          Junction-9137          {'Junction-9041': 'Pipe-8865'}
+Junction-9137          Junction-47600          {'Junction-32355': 'Pipe-30969', 'Junction-9115': 'Pipe-97491'}
+Junction-9252          Junction-97937          {'Junction-97934': 'Pipe-9213', 'Junction-99198': 'Pipe-10186'}
+Junction-9492          Junction-97937          {}
+Junction-9494          Junction-9551          {}
+Junction-9548          Junction-100368          {'Junction-10595': 'Pipe-10260', 'Junction-99816': 'Pipe-100978'}
+Junction-9551          Junction-10018          {'Junction-9494': 'Pipe-9234', 'Junction-99702': 'Pipe-9276'}
+Junction-9556          Junction-116901          {'Junction-9915': 'Pipe-9282'}
+Junction-9698          Junction-9802          {}
+Junction-9802          Junction-98869          {'Junction-9698': 'Pipe-9500', 'Junction-99110': 'Pipe-9501'}
+Junction-9808          Junction-9981          {'Junction-9809': 'Pipe-9505', 'Junction-103455': 'Pipe-103758'}
+Junction-9809          Junction-9808          {'Junction-10392': 'Pipe-10048'}
+Junction-9860          Junction-9944          {}
+Junction-9915          Junction-9556          {'Junction-9917': 'Pipe-9609'}
+Junction-9917          Junction-9915          {'Junction-17528': 'Pipe-9611', 'Junction-12744': 'Pipe-12221'}
+Junction-9944          Junction-10823          {'Junction-9860': 'Pipe-9556'}
+Junction-9946          Junction-11647          {}
+Junction-9981          Junction-19268          {'Junction-9808': 'Pipe-11034', 'Junction-18065': 'Pipe-19750'}
+Junction-9986          Junction-111208          {}
+Junction-10018          Junction-30414          {'Junction-9551': 'Pipe-9275', 'Junction-100110': 'Pipe-120068'}
+Junction-10094          Junction-10097          {'Junction-10095': 'Pipe-9772'}
+Junction-10095          Junction-10094          {}
+Junction-10097          Junction-10100          {'Junction-10094': 'Pipe-9774', 'Junction-10099': 'Pipe-9776'}
+Junction-10099          Junction-10097          {}
+Junction-10100          Junction-42099          {'Junction-10097': 'Pipe-9777'}
+Junction-10202          Junction-10519          {'Junction-11221': 'Pipe-9854'}
+Junction-10258          Junction-10260          {}
+Junction-10260          Junction-32355          {'Junction-10258': 'Pipe-9918'}
+Junction-10392          Junction-9809          {'Junction-111208': 'Pipe-9678'}
+Junction-10519          Junction-99479          {'Junction-10202': 'Pipe-10171', 'Junction-55861': 'Pipe-52981'}
+Junction-10595          Junction-9548          {}
+Junction-10823          Junction-11218          {'Junction-11647': 'Pipe-11430', 'Junction-9944': 'Pipe-11515'}
+Junction-11218          Junction-41082          {'Junction-10823': 'Pipe-10812', 'Junction-43191': 'Pipe-10818'}
+Junction-11221          Junction-10202          {}
+Junction-11647          Junction-10823          {'Junction-9946': 'Pipe-11136', 'Junction-11651': 'Pipe-11422'}
+Junction-11651          Junction-11647          {}
+Junction-12744          Junction-9917          {}
+Junction-12748          Junction-17528          {'Junction-100388': 'Pipe-12222'}
+Junction-13700          Junction-66224          {'Junction-98830': 'Pipe-13069', 'Junction-116686': 'Pipe-117591'}
+Junction-13715          Junction-40889          {'Junction-16340': 'Pipe-15748', 'Junction-66224': 'Pipe-62086'}
+Junction-13742          Junction-13761          {'Junction-15027': 'Pipe-14328'}
+Junction-13761          Junction-49142          {'Junction-13742': 'Pipe-14317'}
+Junction-14261          Junction-111225          {'Junction-33148': 'Pipe-43159', 'Junction-7795': 'Pipe-53512'}
+Junction-14279          Junction-59203          {'Junction-14292': 'Pipe-13570', 'Junction-50028': 'Pipe-47438'}
+Junction-14292          Junction-14279          {'Junction-29936': 'Pipe-27646', 'Junction-14297': 'Pipe-58648'}
+Junction-14297          Junction-14292          {'Junction-7222': 'Pipe-57106', 'Junction-23736': 'Pipe-120881'}
+Junction-15021          Junction-16220          {}
+Junction-15027          Junction-13742          {}
+Junction-15412          Junction-2238          {'Junction-18021': 'Pipe-100327'}
+Junction-15414          Junction-2100          {'Junction-2097': 'Pipe-14716'}
+Junction-15720          Junction-16338          {'Junction-16557': 'Pipe-14890'}
+Junction-16187          Junction-16278          {}
+Junction-16220          Junction-5297          {'Junction-15021': 'Pipe-14312', 'Junction-16232': 'Pipe-15482'}
+Junction-16232          Junction-16220          {'Junction-33839': 'Pipe-32202'}
+Junction-16278          Junction-99368          {'Junction-16187': 'Pipe-15532', 'Junction-100359': 'Pipe-101716'}
+Junction-16338          Junction-16340          {'Junction-15720': 'Pipe-15492'}
+Junction-16340          Junction-13715          {'Junction-16338': 'Pipe-15597'}
+Junction-16557          Junction-15720          {}
+Junction-16565          Junction-105140          {'Junction-17746': 'Pipe-16909'}
+Junction-16605          Junction-7612          {}
+Junction-16793          Junction-17058          {}
+Junction-16837          Junction-17173          {}
+Junction-17058          Junction-26973          {'Junction-16793': 'Pipe-16046'}
+Junction-17125          Junction-38586          {}
+Junction-17137          Junction-31545          {}
+Junction-17173          Junction-36258          {'Junction-16837': 'Pipe-16354', 'Junction-27501': 'Pipe-34567'}
+Junction-17277          Junction-18008          {'Junction-99004': 'Pipe-100686'}
+Junction-17278          Junction-2100          {'Junction-17277': 'Pipe-16447', 'Junction-18843': 'Pipe-19450'}
+Junction-17342          Junction-2098          {'Junction-2006': 'Pipe-16513'}
+Junction-17528          Junction-9917          {'Junction-12748': 'Pipe-16683'}
+Junction-17656          Junction-17746          {'Junction-39039': 'Pipe-37184'}
+Junction-17746          Junction-16565          {'Junction-17656': 'Pipe-16826'}
+Junction-18008          Junction-2103          {'Junction-18841': 'Pipe-16445', 'Junction-17277': 'Pipe-100678'}
+Junction-18013          Junction-18016          {'Junction-2100': 'Pipe-17145', 'Junction-2103': 'Pipe-17148'}
+Junction-18016          Junction-98841          {'Junction-18013': 'Pipe-2004', 'Junction-99655': 'Pipe-100778'}
+Junction-18017          Junction-2098          {'Junction-20195': 'Pipe-29516'}
+Junction-18021          Junction-15412          {'Junction-2091': 'Pipe-25643', 'Junction-2007': 'Pipe-96725'}
+Junction-18024          Junction-2097          {'Junction-2091': 'Pipe-1988', 'Junction-2009': 'Pipe-19461'}
+Junction-18027          Junction-2006          {'Junction-100368': 'Pipe-101728'}
+Junction-18033          Junction-2103          {'Junction-2098': 'Pipe-19475'}
+Junction-18065          Junction-9981          {'Junction-99485': 'Pipe-100584', 'Junction-19274': 'Pipe-100789'}
+Junction-18841          Junction-2237          {'Junction-2228': 'Pipe-16199'}
+Junction-18843          Junction-17278          {'Junction-2228': 'Pipe-2112'}
+Junction-18873          Junction-41587          {'Junction-18874': 'Pipe-16606', 'Junction-7518': 'Pipe-18854'}
+Junction-18874          Junction-18873          {}
+Junction-18899          Junction-300          {'Junction-18900': 'Pipe-17965', 'Junction-19576': 'Pipe-18648'}
+Junction-18900          Junction-18899          {'Junction-19616': 'Pipe-18651', 'Junction-20691': 'Pipe-112026'}
+Junction-18913          Junction-19194          {'Junction-18916': 'Pipe-17978', 'Junction-2340': 'Pipe-18234'}
+Junction-18916          Junction-18913          {'Junction-98040': 'Pipe-18273'}
+Junction-19185          Junction-19191          {}
+Junction-19191          Junction-19194          {'Junction-19185': 'Pipe-18239', 'Junction-19192': 'Pipe-18245'}
+Junction-19192          Junction-19191          {'Junction-100225': 'Pipe-101548', 'Junction-100231': 'Pipe-101549'}
+Junction-19194          Junction-99702          {'Junction-18913': 'Pipe-17974', 'Junction-19191': 'Pipe-100347'}
+Junction-19266          Junction-19267          {}
+Junction-19267          Junction-34033          {'Junction-19266': 'Pipe-18319', 'Junction-19268': 'Pipe-18320'}
+Junction-19268          Junction-19267          {'Junction-9981': 'Pipe-101464'}
+Junction-19274          Junction-18065          {}
+Junction-19572          Junction-19573          {}
+Junction-19573          Junction-19575          {'Junction-19572': 'Pipe-18615', 'Junction-19608': 'Pipe-18642'}
+Junction-19575          Junction-19612          {'Junction-19573': 'Pipe-18617', 'Junction-20655': 'Pipe-19752'}
+Junction-19576          Junction-18899          {'Junction-19612': 'Pipe-18646', 'Junction-21554': 'Pipe-20528'}
+Junction-19606          Junction-19608          {'Junction-20664': 'Pipe-21038'}
+Junction-19608          Junction-19573          {'Junction-19606': 'Pipe-20615'}
+Junction-19611          Junction-19612          {}
+Junction-19612          Junction-19576          {'Junction-19611': 'Pipe-18645', 'Junction-19575': 'Pipe-20616'}
+Junction-19616          Junction-18900          {}
+Junction-19621          Junction-20691          {}
+Junction-19666          Junction-7161          {'Junction-7285': 'Pipe-18697'}
+Junction-19699          Junction-20761          {'Junction-19701': 'Pipe-18731', 'Junction-7161': 'Pipe-19779'}
+Junction-19701          Junction-20306          {'Junction-32090': 'Pipe-30400'}
+Junction-19740          Junction-31788          {}
+Junction-19908          Junction-128439          {'Junction-19916': 'Pipe-19511', 'Junction-21588': 'Pipe-20570'}
+Junction-19911          Junction-19916          {}
+Junction-19916          Junction-19908          {'Junction-19911': 'Pipe-18941', 'Junction-46131': 'Pipe-51546'}
+Junction-20194          Junction-20195          {}
+Junction-20195          Junction-18017          {'Junction-20194': 'Pipe-19219', 'Junction-20196': 'Pipe-19221'}
+Junction-20196          Junction-20195          {}
+Junction-20230          Junction-20655          {'Junction-20234': 'Pipe-19665'}
+Junction-20232          Junction-20234          {}
+Junction-20234          Junction-20230          {'Junction-20232': 'Pipe-19249', 'Junction-20236': 'Pipe-19251'}
+Junction-20236          Junction-20234          {}
+Junction-20237          Junction-22039          {'Junction-20238': 'Pipe-19253', 'Junction-20656': 'Pipe-112019'}
+Junction-20238          Junction-20237          {}
+Junction-20284          Junction-31466          {}
+Junction-20306          Junction-20819          {'Junction-22022': 'Pipe-19295', 'Junction-19701': 'Pipe-19805'}
+Junction-20377          Junction-126962          {'Junction-127376': 'Pipe-14292', 'Junction-105140': 'Pipe-109073'}
+Junction-20653          Junction-22045          {}
+Junction-20655          Junction-19575          {'Junction-20230': 'Pipe-19671', 'Junction-21636': 'Pipe-20854'}
+Junction-20656          Junction-20237          {'Junction-20659': 'Pipe-19674', 'Junction-22045': 'Pipe-21042'}
+Junction-20659          Junction-20656          {'Junction-20661': 'Pipe-19676'}
+Junction-20661          Junction-20659          {}
+Junction-20663          Junction-20664          {'Junction-22039': 'Pipe-21889'}
+Junction-20664          Junction-19606          {'Junction-20663': 'Pipe-19679', 'Junction-22041': 'Pipe-21037'}
+Junction-20691          Junction-18900          {'Junction-19621': 'Pipe-18655'}
+Junction-20761          Junction-54179          {'Junction-19699': 'Pipe-18725'}
+Junction-20819          Junction-116686          {'Junction-20306': 'Pipe-13057'}
+Junction-21263          Junction-48555          {'Junction-21264': 'Pipe-20266', 'Junction-23009': 'Pipe-21987'}
+Junction-21264          Junction-21263          {'Junction-34156': 'Pipe-32494', 'Junction-47603': 'Pipe-45240'}
+Junction-21265          Junction-26248          {'Junction-23720': 'Pipe-22630', 'Junction-25543': 'Pipe-34498'}
+Junction-21321          Junction-47600          {'Junction-1044': 'Pipe-20311'}
+Junction-21414          Junction-38817          {}
+Junction-21554          Junction-19576          {}
+Junction-21588          Junction-19908          {}
+Junction-21635          Junction-21636          {}
+Junction-21636          Junction-20655          {'Junction-21635': 'Pipe-20617', 'Junction-21859': 'Pipe-20852'}
+Junction-21644          Junction-111147          {'Junction-3489': 'Pipe-20627', 'Junction-942': 'Pipe-20978'}
+Junction-21646          Junction-21896          {}
+Junction-21775          Junction-21783          {}
+Junction-21783          Junction-7612          {'Junction-21775': 'Pipe-20766'}
+Junction-21859          Junction-21636          {}
+Junction-21896          Junction-6835          {'Junction-21646': 'Pipe-20635'}
+Junction-22022          Junction-20306          {'Junction-111147': 'Pipe-117067'}
+Junction-22039          Junction-20663          {'Junction-20237': 'Pipe-21888'}
+Junction-22041          Junction-20664          {}
+Junction-22045          Junction-20656          {'Junction-20653': 'Pipe-21882', 'Junction-22905': 'Pipe-21884'}
+Junction-22175          Junction-34444          {'Junction-36301': 'Pipe-21177', 'Junction-99286': 'Pipe-100339'}
+Junction-22540          Junction-23339          {'Junction-4721': 'Pipe-4555', 'Junction-23337': 'Pipe-22270'}
+Junction-22905          Junction-22045          {}
+Junction-22908          Junction-22919          {}
+Junction-22919          Junction-31469          {'Junction-22908': 'Pipe-21896', 'Junction-31466': 'Pipe-29989'}
+Junction-23009          Junction-21263          {}
+Junction-23337          Junction-22540          {'Junction-41683': 'Pipe-39618'}
+Junction-23339          Junction-36767          {'Junction-22540': 'Pipe-21280'}
+Junction-23720          Junction-21265          {}
+Junction-23736          Junction-14297          {}
+Junction-24920          Junction-26246          {}
+Junction-25321          Junction-25543          {}
+Junction-25472          Junction-25486          {}
+Junction-25486          Junction-29632          {'Junction-25472': 'Pipe-24327', 'Junction-31990': 'Pipe-24334'}
+Junction-25489          Junction-28618          {}
+Junction-25543          Junction-21265          {'Junction-25321': 'Pipe-24171', 'Junction-107214': 'Pipe-109372'}
+Junction-26246          Junction-96222          {'Junction-24920': 'Pipe-23791'}
+Junction-26248          Junction-27498          {'Junction-122930': 'Pipe-32381', 'Junction-21265': 'Pipe-34495'}
+Junction-26973          Junction-41132          {'Junction-27615': 'Pipe-25812', 'Junction-17058': 'Pipe-38016'}
+Junction-26989          Junction-26996          {}
+Junction-26996          Junction-50999          {'Junction-26989': 'Pipe-25835', 'Junction-51163': 'Pipe-48544'}
+Junction-26998          Junction-32586          {}
+Junction-27084          Junction-111155          {'Junction-27239': 'Pipe-26084'}
+Junction-27239          Junction-27084          {}
+Junction-27498          Junction-41026          {'Junction-26248': 'Pipe-25111', 'Junction-35697': 'Pipe-34012'}
+Junction-27501          Junction-17173          {}
+Junction-27615          Junction-26973          {}
+Junction-28458          Junction-51072          {'Junction-29012': 'Pipe-27660', 'Junction-29352': 'Pipe-27993'}
+Junction-28618          Junction-50025          {'Junction-25489': 'Pipe-28337', 'Junction-102036': 'Pipe-48113'}
+Junction-29012          Junction-28458          {}
+Junction-29352          Junction-28458          {'Junction-29939': 'Pipe-28537'}
+Junction-29484          Junction-2091          {}
+Junction-29629          Junction-29632          {}
+Junction-29632          Junction-37316          {'Junction-29629': 'Pipe-28243', 'Junction-25486': 'Pipe-28244'}
+Junction-29864          Junction-29873          {}
+Junction-29873          Junction-49938          {'Junction-29864': 'Pipe-28468'}
+Junction-29936          Junction-101660          {}
+Junction-29939          Junction-29352          {}
+Junction-29994          Junction-30008          {}
+Junction-30008          Junction-98224          {'Junction-29994': 'Pipe-28590', 'Junction-105411': 'Pipe-106870'}
+Junction-30414          Junction-127514          {'Junction-10018': 'Pipe-9713', 'Junction-100266': 'Pipe-101604'}
+Junction-30575          Junction-30728          {}
+Junction-30728          Junction-99368          {'Junction-30575': 'Pipe-29139', 'Junction-99360': 'Pipe-100439'}
+Junction-31466          Junction-22919          {'Junction-20284': 'Pipe-19287', 'Junction-32382': 'Pipe-30834'}
+Junction-31469          Junction-31656          {'Junction-32344': 'Pipe-30802', 'Junction-22919': 'Pipe-30831'}
+Junction-31545          Junction-32358          {'Junction-17137': 'Pipe-16026', 'Junction-31788': 'Pipe-30047'}
+Junction-31656          Junction-9041          {'Junction-31469': 'Pipe-30141', 'Junction-32340': 'Pipe-97488'}
+Junction-31657          Junction-95940          {'Junction-34250': 'Pipe-31397', 'Junction-42312': 'Pipe-97823'}
+Junction-31788          Junction-31545          {'Junction-32382': 'Pipe-30272', 'Junction-19740': 'Pipe-31011'}
+Junction-31915          Junction-33148          {'Junction-42407': 'Pipe-43755'}
+Junction-31937          Junction-31990          {}
+Junction-31990          Junction-25486          {'Junction-31937': 'Pipe-30458', 'Junction-106092': 'Pipe-109294'}
+Junction-32090          Junction-19701          {}
+Junction-32340          Junction-31656          {'Junction-32341': 'Pipe-32330'}
+Junction-32341          Junction-32340          {'Junction-97113': 'Pipe-97486'}
+Junction-32344          Junction-31469          {}
+Junction-32353          Junction-32355          {'Junction-1933': 'Pipe-1849', 'Junction-32703': 'Pipe-31362'}
+Junction-32355          Junction-9137          {'Junction-32353': 'Pipe-30806', 'Junction-10260': 'Pipe-31093'}
+Junction-32358          Junction-32591          {'Junction-31545': 'Pipe-30848', 'Junction-32586': 'Pipe-31130'}
+Junction-32382          Junction-31788          {'Junction-6643': 'Pipe-30835'}
+Junction-32586          Junction-32358          {'Junction-26998': 'Pipe-25785'}
+Junction-32591          Junction-32703          {'Junction-1398': 'Pipe-31020', 'Junction-32358': 'Pipe-31135'}
+Junction-32703          Junction-32353          {'Junction-32591': 'Pipe-31136', 'Junction-33920': 'Pipe-32276'}
+Junction-32957          Junction-34248          {}
+Junction-33148          Junction-14261          {'Junction-31915': 'Pipe-30379'}
+Junction-33431          Junction-33432          {'Junction-36767': 'Pipe-33884', 'Junction-99018': 'Pipe-101209'}
+Junction-33432          Junction-100388          {'Junction-33431': 'Pipe-31831', 'Junction-99321': 'Pipe-101207'}
+Junction-33839          Junction-16232          {}
+Junction-33846          Junction-920          {'Junction-33847': 'Pipe-32205', 'Junction-34066': 'Pipe-32410'}
+Junction-33847          Junction-33846          {'Junction-34067': 'Pipe-32411'}
+Junction-33920          Junction-32703          {}
+Junction-33952          Junction-33957          {}
+Junction-33957          Junction-99830          {'Junction-33952': 'Pipe-32310', 'Junction-99598': 'Pipe-100718'}
+Junction-34033          Junction-122930          {'Junction-19267': 'Pipe-38603'}
+Junction-34066          Junction-33846          {'Junction-98582': 'Pipe-99521', 'Junction-98673': 'Pipe-99648'}
+Junction-34067          Junction-33847          {}
+Junction-34155          Junction-34156          {}
+Junction-34156          Junction-21264          {'Junction-34155': 'Pipe-32492'}
+Junction-34191          Junction-34547          {}
+Junction-34248          Junction-34334          {'Junction-32957': 'Pipe-32582'}
+Junction-34250          Junction-31657          {}
+Junction-34334          Junction-114744          {'Junction-35245': 'Pipe-33568', 'Junction-34248': 'Pipe-35834'}
+Junction-34444          Junction-98710          {'Junction-22175': 'Pipe-32795', 'Junction-36476': 'Pipe-34064'}
+Junction-34547          Junction-60613          {'Junction-34191': 'Pipe-32524', 'Junction-99781': 'Pipe-101227'}
+Junction-35245          Junction-34334          {}
+Junction-35697          Junction-27498          {'Junction-36773': 'Pipe-35066'}
+Junction-35760          Junction-107214          {'Junction-44920': 'Pipe-42741', 'Junction-106504': 'Pipe-108037'}
+Junction-35793          Junction-35794          {}
+Junction-35794          Junction-106092          {'Junction-35793': 'Pipe-34102', 'Junction-106504': 'Pipe-109301'}
+Junction-35871          Junction-36767          {'Junction-36471': 'Pipe-35832'}
+Junction-36016          Junction-37011          {}
+Junction-36047          Junction-99781          {'Junction-41031': 'Pipe-38964', 'Junction-41026': 'Pipe-38965'}
+Junction-36258          Junction-41026          {'Junction-17173': 'Pipe-34569'}
+Junction-36301          Junction-22175          {}
+Junction-36469          Junction-36471          {'Junction-39721': 'Pipe-37834', 'Junction-115208': 'Pipe-123846'}
+Junction-36471          Junction-35871          {'Junction-36469': 'Pipe-37374'}
+Junction-36476          Junction-34444          {'Junction-37316': 'Pipe-35575', 'Junction-59693': 'Pipe-100889'}
+Junction-36767          Junction-33431          {'Junction-23339': 'Pipe-35060', 'Junction-35871': 'Pipe-35062'}
+Junction-36773          Junction-35697          {}
+Junction-36951          Junction-37550          {'Junction-36968': 'Pipe-37508', 'Junction-37780': 'Pipe-58870'}
+Junction-36958          Junction-39409          {'Junction-36960': 'Pipe-58863', 'Junction-61715': 'Pipe-63658'}
+Junction-36960          Junction-36958          {}
+Junction-36962          Junction-65373          {'Junction-61767': 'Pipe-57350', 'Junction-65422': 'Pipe-62448'}
+Junction-36967          Junction-61767          {'Neidonkallio_EMP_1': 'Pipe-63203', 'Junction-48315': 'Pipe-63553'}
+Junction-36968          Junction-36951          {'Junction-37782': 'Pipe-36012', 'Junction-39409': 'Pipe-64712'}
+Junction-37011          Junction-99534          {'Junction-36016': 'Pipe-34319', 'Junction-1475': 'Pipe-100640'}
+Junction-37299          Junction-37303          {'Junction-37788': 'Pipe-36166', 'Junction-42763': 'Pipe-40559'}
+Junction-37303          Junction-38006          {'Junction-37299': 'Pipe-35831', 'Junction-114744': 'Pipe-117629'}
+Junction-37316          Junction-36476          {'Junction-29632': 'Pipe-35572', 'Junction-41940': 'Pipe-39760'}
+Junction-37396          Junction-37605          {'Junction-64662': 'Pipe-66833'}
+Junction-37544          Junction-64275          {'Junction-55177': 'Pipe-51524', 'Junction-37550': 'Pipe-64488'}
+Junction-37550          Junction-37544          {'Junction-58790': 'Pipe-62697', 'Junction-36951': 'Pipe-65223'}
+Junction-37591          Junction-37596          {}
+Junction-37596          Junction-115208          {'Junction-37591': 'Pipe-35828', 'Junction-52889': 'Pipe-50136'}
+Junction-37605          Junction-46680          {'Junction-37396': 'Pipe-35616', 'Junction-39122': 'Pipe-35841'}
+Junction-37727          Junction-39145          {'Junction-37731': 'Pipe-35962', 'Junction-38429': 'Pipe-36647'}
+Junction-37731          Junction-37727          {'Junction-38427': 'Pipe-36643'}
+Junction-37764          Junction-70718          {'Junction-65240': 'Pipe-60503'}
+Junction-37780          Junction-36951          {}
+Junction-37782          Junction-36968          {}
+Junction-37788          Junction-37299          {'Junction-47852': 'Pipe-50093'}
+Junction-37844          Junction-99690          {'Junction-35697': 'Pipe-36069', 'Junction-37845': 'Pipe-36070'}
+Junction-37845          Junction-37844          {'Junction-76786': 'Pipe-71772', 'Junction-98878': 'Pipe-100821'}
+Junction-37884          Junction-37885          {}
+Junction-37885          Junction-98922          {'Junction-37884': 'Pipe-36112', 'Junction-100318': 'Pipe-36299'}
+Junction-38006          Junction-39719          {'Junction-37303': 'Pipe-36241', 'Junction-41107': 'Pipe-39048'}
+Junction-38195          Junction-63624          {'Junction-38706': 'Pipe-60559'}
+Junction-38245          Junction-38294          {'Junction-38595': 'Pipe-36794'}
+Junction-38294          Junction-51026          {'Junction-38245': 'Pipe-36472', 'Junction-49190': 'Pipe-48901'}
+Junction-38343          Junction-38425          {}
+Junction-38353          Junction-38356          {'Junction-49268': 'Pipe-46756', 'Junction-49794': 'Pipe-47233'}
+Junction-38356          Junction-56012          {'Junction-38353': 'Pipe-36575', 'Junction-68672': 'Pipe-63116'}
+Junction-38425          Junction-57062          {'Junction-38343': 'Pipe-36568', 'Junction-39145': 'Pipe-46210'}
+Junction-38427          Junction-37731          {}
+Junction-38429          Junction-37727          {}
+Junction-38449          Junction-68862          {'Junction-38817': 'Pipe-36988', 'Junction-50972': 'Pipe-48373'}
+Junction-38460          Junction-38463          {'Junction-64665': 'Pipe-36667', 'Junction-65680': 'Pipe-60457'}
+Junction-38463          Junction-58790          {'Junction-38460': 'Pipe-36669', 'Junction-56780': 'Pipe-64737'}
+Junction-38492          Junction-38803          {'Junction-67965': 'Pipe-62713', 'Junction-37764': 'Pipe-65130'}
+Junction-38586          Junction-52634          {'Junction-17125': 'Pipe-16320', 'Junction-39113': 'Pipe-36785'}
+Junction-38595          Junction-38245          {}
+Junction-38652          Junction-39122          {'Junction-38805': 'Pipe-36848', 'Junction-84540': 'Pipe-78220'}
+Junction-38706          Junction-38195          {}
+Junction-38786          Junction-38803          {'Junction-58780': 'Pipe-36964'}
+Junction-38803          Junction-38805          {'Junction-38786': 'Pipe-36965', 'Junction-38492': 'Pipe-36977'}
+Junction-38805          Junction-38652          {'Junction-63624': 'Pipe-58862', 'Junction-38803': 'Pipe-63815'}
+Junction-38817          Junction-38449          {'Junction-21414': 'Pipe-20397', 'Junction-47050': 'Pipe-36984'}
+Junction-38905          Junction-63624          {}
+Junction-39039          Junction-17656          {}
+Junction-39059          Junction-53615          {'Junction-65236': 'Pipe-60117', 'Junction-39069': 'Pipe-61614'}
+Junction-39069          Junction-39059          {'Junction-39122': 'Pipe-37205', 'Junction-65376': 'Pipe-60222'}
+Junction-39113          Junction-38586          {}
+Junction-39122          Junction-39069          {'Junction-38652': 'Pipe-59333'}
+Junction-39145          Junction-38425          {'Junction-37727': 'Pipe-35956', 'Junction-48934': 'Pipe-37283'}
+Junction-39150          Junction-39152          {}
+Junction-39152          Junction-64013          {'Junction-39150': 'Pipe-37285'}
+Junction-39156          Junction-98936          {'Junction-64013': 'Pipe-40218', 'Junction-42748': 'Pipe-40625'}
+Junction-39409          Junction-36968          {'Junction-36958': 'Pipe-35241', 'Junction-66516': 'Pipe-61161'}
+Junction-39719          Junction-39721          {'Junction-38006': 'Pipe-39154', 'Junction-41716': 'Pipe-39647'}
+Junction-39721          Junction-36469          {'Junction-40794': 'Pipe-38741', 'Junction-39719': 'Pipe-39046'}
+Junction-40767          Junction-54179          {'Junction-41095': 'Pipe-38461', 'Junction-53612': 'Pipe-50686'}
+Junction-40770          Junction-40791          {}
+Junction-40791          Junction-97775          {'Junction-40770': 'Pipe-38720', 'Junction-100179': 'Pipe-101479'}
+Junction-40794          Junction-39721          {}
+Junction-40889          Junction-47090          {'Junction-41060': 'Pipe-39253', 'Junction-13715': 'Pipe-66220'}
+Junction-40892          Junction-41082          {}
+Junction-40961          Junction-95085          {'Junction-97997': 'Pipe-38896'}
+Junction-41008          Junction-100287          {'Junction-99525': 'Pipe-38938', 'Junction-99368': 'Pipe-101199'}
+Junction-41026          Junction-36047          {'Junction-36258': 'Pipe-40267', 'Junction-27498': 'Pipe-40583'}
+Junction-41031          Junction-36047          {'Junction-99307': 'Pipe-100365'}
+Junction-41049          Junction-41058          {}
+Junction-41058          Junction-49190          {'Junction-41049': 'Pipe-38991', 'Junction-50272': 'Pipe-47668'}
+Junction-41060          Junction-40889          {}
+Junction-41082          Junction-57893          {'Junction-40892': 'Pipe-39019', 'Junction-11218': 'Pipe-41034'}
+Junction-41095          Junction-40767          {}
+Junction-41107          Junction-38006          {}
+Junction-41132          Junction-50543          {'Junction-26973': 'Pipe-38422', 'Junction-64781': 'Pipe-135385'}
+Junction-41266          Junction-41740          {}
+Junction-41284          Junction-106055          {}
+Junction-41442          Junction-42407          {'Junction-41523': 'Pipe-39463', 'Junction-128439': 'Pipe-135091'}
+Junction-41523          Junction-41442          {'Junction-6013': 'Pipe-6529', 'Junction-42099': 'Pipe-40036'}
+Junction-41572          Junction-41577          {'Kummihovi_EMP': 'Pipe-39598'}
+Junction-41577          Junction-41582          {'Junction-41572': 'Pipe-39505', 'Junction-42686': 'Pipe-40611'}
+Junction-41582          Junction-41740          {'Junction-41577': 'Pipe-39508'}
+Junction-41587          Junction-41683          {'Junction-18873': 'Pipe-39518', 'Kantvik_EMP': 'Pipe-39812'}
+Junction-41619          Junction-41620          {'Junction-41711': 'Pipe-39539'}
+Junction-41620          Junction-100359          {'Junction-41619': 'Pipe-39558'}
+Junction-41683          Junction-23337          {'Junction-41587': 'Pipe-39519', 'Junction-41740': 'Pipe-39673'}
+Junction-41711          Junction-41619          {}
+Junction-41716          Junction-39719          {}
+Junction-41740          Junction-41683          {'Junction-41266': 'Pipe-39379', 'Junction-41582': 'Pipe-39513'}
+Junction-41940          Junction-37316          {}
+Junction-42099          Junction-41523          {'Junction-10100': 'Pipe-39561'}
+Junction-42173          Junction-114781          {}
+Junction-42178          Junction-42312          {}
+Junction-42312          Junction-31657          {'Junction-42178': 'Pipe-40225', 'Junction-42761': 'Pipe-40637'}
+Junction-42407          Junction-31915          {'Junction-43595': 'Pipe-41445', 'Junction-41442': 'Pipe-41665'}
+Junction-42686          Junction-41577          {}
+Junction-42748          Junction-39156          {}
+Junction-42761          Junction-42312          {'Junction-98413': 'Pipe-99300'}
+Junction-42763          Junction-37299          {}
+Junction-43191          Junction-11218          {'Junction-44635': 'Pipe-42448'}
+Junction-43562          Junction-43566          {}
+Junction-43566          Junction-46121          {'Junction-43562': 'Pipe-41403', 'Junction-52254': 'Pipe-51627'}
+Junction-43595          Junction-42407          {}
+Junction-44635          Junction-43191          {}
+Junction-44920          Junction-35760          {}
+Junction-45254          Junction-45888          {}
+Junction-45717          Junction-99330          {'Junction-99889': 'Pipe-43542', 'Junction-100335': 'Pipe-101685'}
+Junction-45888          Junction-56780          {'Junction-45254': 'Pipe-43724', 'Junction-60532': 'Pipe-43730'}
+Junction-45979          Junction-50543          {}
+Junction-46121          Junction-49026          {'Junction-43566': 'Pipe-43946', 'Junction-49563': 'Pipe-44108'}
+Junction-46129          Junction-47088          {}
+Junction-46131          Junction-19916          {'Junction-47223': 'Pipe-44916', 'Junction-47600': 'Pipe-45222'}
+Junction-46212          Junction-46214          {}
+Junction-46214          Junction-49754          {'Junction-46212': 'Pipe-44023', 'Junction-46223': 'Pipe-47857'}
+Junction-46217          Junction-46223          {}
+Junction-46223          Junction-46214          {'Junction-46217': 'Pipe-44030', 'Junction-46228': 'Pipe-44037'}
+Junction-46225          Junction-46849          {}
+Junction-46228          Junction-46223          {'Junction-46923': 'Pipe-44646', 'Junction-47855': 'Pipe-45492'}
+Junction-46597          Junction-84173          {}
+Junction-46680          Junction-53615          {'Neidonkallio_EMP_2': 'Pipe-45739', 'Junction-37605': 'Pipe-45904'}
+Junction-46849          Junction-49026          {'Junction-46225': 'Pipe-44034', 'Junction-49024': 'Pipe-46544'}
+Junction-46923          Junction-46228          {'Junction-50652': 'Pipe-48069'}
+Junction-47050          Junction-38817          {'Junction-47051': 'Pipe-44763', 'Junction-48274': 'Pipe-45859'}
+Junction-47051          Junction-47050          {'Junction-60463': 'Pipe-54407'}
+Junction-47088          Junction-99130          {'Junction-46129': 'Pipe-45721', 'Junction-99133': 'Pipe-100953'}
+Junction-47090          Junction-7222          {'Junction-48557': 'Pipe-13585', 'Junction-40889': 'Pipe-67466'}
+Junction-47093          Junction-49052          {}
+Junction-47223          Junction-46131          {}
+Junction-47600          Junction-46131          {'Junction-9137': 'Pipe-8875', 'Junction-21321': 'Pipe-95329'}
+Junction-47603          Junction-21264          {}
+Junction-47851          Junction-47852          {}
+Junction-47852          Junction-37788          {'Junction-47851': 'Pipe-45486', 'Junction-49026': 'Pipe-45487'}
+Junction-47855          Junction-46228          {}
+Junction-47904          Junction-53612          {'Junction-52874': 'Pipe-47796', 'Junction-50404': 'Pipe-47798'}
+Junction-47934          Junction-47936          {'Junction-49938': 'Pipe-45553', 'Junction-54387': 'Pipe-51504'}
+Junction-47936          Junction-52254          {'Junction-47934': 'Pipe-45554', 'Junction-51548': 'Pipe-51398'}
+Junction-48140          Junction-64662          {'Junction-48626': 'Pipe-45974', 'Junction-65234': 'Pipe-65171'}
+Junction-48274          Junction-47050          {'Junction-49267': 'Pipe-46753'}
+Junction-48312          Junction-48315          {}
+Junction-48315          Junction-36967          {'Junction-48312': 'Pipe-45906', 'Junction-115682': 'Pipe-118486'}
+Junction-48318          Junction-48324          {}
+Junction-48324          Junction-49024          {'Junction-48318': 'Pipe-45913', 'Junction-51044': 'Pipe-45917'}
+Junction-48555          Junction-52889          {'Junction-21263': 'Pipe-45242', 'Junction-51026': 'Pipe-52296'}
+Junction-48557          Junction-47090          {}
+Junction-48626          Junction-48140          {}
+Junction-48688          Junction-102036          {'Junction-50999': 'Pipe-48111', 'Junction-111155': 'Pipe-117218'}
+Junction-48934          Junction-39145          {'Junction-57301': 'Pipe-53833'}
+Junction-49024          Junction-46849          {'Junction-50328': 'Pipe-47726', 'Junction-48324': 'Pipe-48430'}
+Junction-49026          Junction-47852          {'Junction-46849': 'Pipe-46546', 'Junction-46121': 'Pipe-51633'}
+Junction-49052          Junction-49604          {'Junction-47093': 'Pipe-45595', 'Junction-49413': 'Pipe-46887'}
+Junction-49141          Junction-49142          {}
+Junction-49142          Junction-49604          {'Junction-49141': 'Pipe-46644', 'Junction-13761': 'Pipe-46870'}
+Junction-49190          Junction-38294          {'Junction-41058': 'Pipe-47633'}
+Junction-49267          Junction-48274          {}
+Junction-49268          Junction-38353          {'Junction-68862': 'Pipe-36573', 'Junction-54882': 'Pipe-51863'}
+Junction-49349          Junction-99755          {'Junction-99876': 'Pipe-101054', 'Junction-99878': 'Pipe-101055'}
+Junction-49413          Junction-49052          {'Junction-49757': 'Pipe-47195', 'Junction-50461': 'Pipe-47854'}
+Junction-49415          Junction-49938          {}
+Junction-49563          Junction-46121          {}
+Junction-49604          Junction-50999          {'Junction-49052': 'Pipe-47053', 'Junction-49142': 'Pipe-48105'}
+Junction-49754          Junction-49757          {'Junction-50392': 'Pipe-53243', 'Junction-46214': 'Pipe-53247'}
+Junction-49757          Junction-49413          {'Junction-49754': 'Pipe-47193', 'Junction-50187': 'Pipe-47592'}
+Junction-49794          Junction-38353          {}
+Junction-49938          Junction-47934          {'Junction-49415': 'Pipe-47356', 'Junction-29873': 'Pipe-47361'}
+Junction-50025          Junction-51044          {'Junction-52026': 'Pipe-47431', 'Junction-28618': 'Pipe-48441'}
+Junction-50028          Junction-14279          {}
+Junction-50187          Junction-49757          {}
+Junction-50272          Junction-41058          {'Junction-52417': 'Pipe-48054', 'Junction-52634': 'Pipe-49408'}
+Junction-50281          Junction-105274          {'Junction-51815': 'Pipe-56287', 'Junction-50282': 'Pipe-109608'}
+Junction-50282          Junction-50281          {'Junction-97767': 'Pipe-98410', 'Junction-97770': 'Pipe-110804'}
+Junction-50299          Junction-51044          {}
+Junction-50328          Junction-49024          {}
+Junction-50392          Junction-49754          {}
+Junction-50404          Junction-47904          {'Junction-50470': 'Pipe-53828', 'Junction-53505': 'Pipe-56412'}
+Junction-50461          Junction-49413          {}
+Junction-50470          Junction-50404          {}
+Junction-50543          Junction-129247          {'Junction-45979': 'Pipe-43821', 'Junction-41132': 'Pipe-92653'}
+Junction-50652          Junction-46923          {}
+Junction-50786          Junction-50787          {}
+Junction-50787          Junction-6217          {'Junction-50786': 'Pipe-48203'}
+Junction-50972          Junction-38449          {}
+Junction-50999          Junction-48688          {'Junction-49604': 'Pipe-48110', 'Junction-26996': 'Pipe-48761'}
+Junction-51026          Junction-48555          {'Junction-38294': 'Pipe-48427'}
+Junction-51044          Junction-48324          {'Junction-50299': 'Pipe-47696', 'Junction-50025': 'Pipe-49489'}
+Junction-51072          Junction-51524          {'Junction-54948': 'Pipe-51927', 'Junction-28458': 'Pipe-134990'}
+Junction-51163          Junction-26996          {}
+Junction-51508          Junction-52889          {}
+Junction-51524          Junction-51737          {'Junction-6217': 'Pipe-48875', 'Junction-51072': 'Pipe-135113'}
+Junction-51548          Junction-47936          {}
+Junction-51620          Junction-51622          {'Junction-54123': 'Pipe-48940'}
+Junction-51622          Junction-51625          {'Junction-51620': 'Pipe-48941', 'Junction-54121': 'Pipe-51172'}
+Junction-51625          Junction-53505          {'Junction-51622': 'Pipe-48943', 'Junction-54119': 'Pipe-51170'}
+Junction-51737          Junction-99182          {'Junction-51524': 'Pipe-49038', 'Junction-99304': 'Pipe-53098'}
+Junction-51815          Junction-50281          {}
+Junction-52026          Junction-50025          {}
+Junction-52250          Junction-52254          {}
+Junction-52254          Junction-43566          {'Junction-47936': 'Pipe-45661', 'Junction-52250': 'Pipe-49490'}
+Junction-52417          Junction-50272          {}
+Junction-52634          Junction-50272          {'Junction-38586': 'Pipe-53253', 'Junction-54599': 'Pipe-53995'}
+Junction-52874          Junction-47904          {}
+Junction-52880          Junction-54909          {}
+Junction-52889          Junction-37596          {'Junction-51508': 'Pipe-48847', 'Junction-48555': 'Pipe-50142'}
+Junction-53505          Junction-50404          {'Junction-51625': 'Pipe-50647', 'Junction-57893': 'Pipe-50743'}
+Junction-53612          Junction-40767          {'Junction-47904': 'Pipe-45532', 'Junction-54634': 'Pipe-51626'}
+Junction-53615          Junction-55861          {'Junction-46680': 'Pipe-36850', 'Junction-39059': 'Pipe-37198'}
+Junction-53865          Junction-897          {'Junction-53866': 'Pipe-50943', 'Junction-53867': 'Pipe-50944'}
+Junction-53866          Junction-53865          {}
+Junction-53867          Junction-53865          {}
+Junction-54075          Junction-54599          {}
+Junction-54115          Junction-54118          {'Junction-54809': 'Pipe-51164'}
+Junction-54118          Junction-99723          {'Junction-54115': 'Pipe-51167', 'Junction-99727': 'Pipe-100864'}
+Junction-54119          Junction-51625          {}
+Junction-54121          Junction-51622          {}
+Junction-54123          Junction-51620          {}
+Junction-54179          Junction-59693          {'Junction-40767': 'Pipe-56687', 'Junction-20761': 'Pipe-101129'}
+Junction-54387          Junction-47934          {}
+Junction-54599          Junction-52634          {'Junction-54075': 'Pipe-51122'}
+Junction-54634          Junction-53612          {}
+Junction-54809          Junction-54115          {}
+Junction-54877          Junction-55365          {'Junction-55179': 'Pipe-50712'}
+Junction-54882          Junction-49268          {}
+Junction-54909          Junction-60463          {'Junction-52880': 'Pipe-50123', 'Junction-55173': 'Pipe-52132'}
+Junction-54948          Junction-51072          {}
+Junction-55173          Junction-54909          {}
+Junction-55177          Junction-37544          {}
+Junction-55179          Junction-54877          {}
+Junction-55365          Junction-72630          {'Junction-54877': 'Pipe-52289', 'Junction-65818': 'Pipe-64538'}
+Junction-55565          Junction-55566          {'Junction-99473': 'Pipe-100568', 'Junction-99693': 'Pipe-101747'}
+Junction-55566          Junction-99438          {'Junction-55565': 'Pipe-52443', 'Junction-99472': 'Pipe-100567'}
+Junction-55861          Junction-10519          {'Junction-53615': 'Pipe-52673', 'Junction-74927': 'Pipe-73738'}
+Junction-56012          Junction-58780          {'Junction-38356': 'Pipe-52796', 'Junction-58481': 'Pipe-54764'}
+Junction-56146          Junction-99783          {'Junction-56147': 'Pipe-52891'}
+Junction-56147          Junction-56146          {}
+Junction-56361          Junction-59693          {'Junction-58769': 'Pipe-55000'}
+Junction-56779          Junction-56780          {}
+Junction-56780          Junction-38463          {'Junction-56779': 'Pipe-53395', 'Junction-45888': 'Pipe-55865'}
+Junction-57062          Junction-74258          {'Junction-38425': 'Pipe-53632'}
+Junction-57301          Junction-48934          {}
+Junction-57893          Junction-53505          {'Junction-41082': 'Pipe-54287', 'Junction-65709': 'Pipe-60478'}
+Junction-58481          Junction-56012          {}
+Junction-58617          Junction-101660          {}
+Junction-58647          Junction-58780          {}
+Junction-58769          Junction-56361          {}
+Junction-58780          Junction-38786          {'Junction-58647': 'Pipe-54905', 'Junction-56012': 'Pipe-61437'}
+Junction-58784          Junction-58790          {}
+Junction-58790          Junction-37550          {'Junction-58784': 'Pipe-55018', 'Junction-38463': 'Pipe-64833'}
+Junction-59203          Junction-7795          {'Junction-14279': 'Pipe-58887'}
+Junction-59693          Junction-36476          {'Junction-56361': 'Pipe-55709', 'Junction-54179': 'Pipe-100050'}
+Junction-60463          Junction-47051          {'Junction-54909': 'Pipe-56365'}
+Junction-60532          Junction-45888          {'Junction-60533': 'Pipe-56415', 'Junction-67029': 'Pipe-61853'}
+Junction-60533          Junction-60532          {}
+Junction-60613          Junction-1396          {'Junction-34547': 'Pipe-56489', 'Junction-99052': 'Pipe-100061'}
+Junction-60758          Junction-61715          {}
+Junction-61093          Junction-2228          {'Junction-100172': 'Pipe-101469'}
+Junction-61715          Junction-36958          {'Junction-60758': 'Pipe-56933', 'Junction-65373': 'Pipe-63657'}
+Junction-61767          Junction-36962          {'Junction-36967': 'Pipe-35246', 'Junction-63760': 'Pipe-58865'}
+Junction-61769          Junction-65373          {}
+Junction-63624          Junction-38805          {'Junction-38905': 'Pipe-37065', 'Junction-38195': 'Pipe-58759'}
+Junction-63760          Junction-61767          {}
+Junction-63769          Junction-65234          {}
+Junction-64013          Junction-39156          {'Junction-39152': 'Pipe-59076', 'Junction-99479': 'Pipe-59078'}
+Junction-64021          Junction-99080          {'Junction-99075': 'Pipe-100358', 'Junction-99828': 'Pipe-101003'}
+Junction-64134          Junction-99890          {'Junction-36301': 'Pipe-52133', 'Junction-99292': 'Pipe-100346'}
+Junction-64230          Junction-64662          {}
+Junction-64275          Junction-65234          {'Junction-37544': 'Pipe-35780', 'Junction-70718': 'Pipe-66589'}
+Junction-64662          Junction-37396          {'Junction-48140': 'Pipe-45736', 'Junction-64230': 'Pipe-59271'}
+Junction-64664          Junction-64665          {}
+Junction-64665          Junction-38460          {'Junction-64664': 'Pipe-59665'}
+Junction-64780          Junction-64781          {}
+Junction-64781          Junction-41132          {'Junction-64780': 'Pipe-59742', 'Junction-95618': 'Pipe-95559'}
+Junction-65234          Junction-48140          {'Junction-63769': 'Pipe-58876', 'Junction-64275': 'Pipe-66590'}
+Junction-65236          Junction-39059          {}
+Junction-65240          Junction-37764          {}
+Junction-65373          Junction-61715          {'Junction-61769': 'Pipe-57352', 'Junction-36962': 'Pipe-63557'}
+Junction-65376          Junction-39069          {}
+Junction-65389          Junction-99032          {'Junction-98922': 'Pipe-19800', 'Junction-99247': 'Pipe-100288'}
+Junction-65422          Junction-36962          {}
+Junction-65528          Junction-98860          {'Junction-99111': 'Pipe-36400', 'Junction-127171': 'Pipe-135175'}
+Junction-65680          Junction-38460          {}
+Junction-65709          Junction-57893          {}
+Junction-65818          Junction-55365          {'Junction-67935': 'Pipe-60184', 'Junction-74257': 'Pipe-69054'}
+Junction-66224          Junction-13715          {'Junction-13700': 'Pipe-52098', 'Junction-68937': 'Pipe-62354'}
+Junction-66227          Junction-68937          {}
+Junction-66516          Junction-39409          {}
+Junction-66675          Junction-127286          {'Junction-96962': 'Pipe-99687', 'Junction-127265': 'Pipe-135649'}
+Junction-67029          Junction-60532          {}
+Junction-67935          Junction-65818          {}
+Junction-67964          Junction-67965          {}
+Junction-67965          Junction-38492          {'Junction-67964': 'Pipe-62424', 'Junction-67966': 'Pipe-62425'}
+Junction-67966          Junction-67965          {}
+Junction-68672          Junction-38356          {}
+Junction-68862          Junction-49268          {'Junction-38449': 'Pipe-36662'}
+Junction-68937          Junction-66224          {'Junction-66227': 'Pipe-60922', 'Junction-68938': 'Pipe-63384'}
+Junction-68938          Junction-68937          {}
+Junction-69578          Junction-99326          {'Junction-100121': 'Pipe-64037', 'Junction-73674': 'Pipe-64038'}
+Junction-70718          Junction-64275          {'Junction-37764': 'Pipe-35779'}
+Junction-71596          Junction-95940          {'Junction-114781': 'Pipe-119924', 'Junction-73054': 'Pipe-135253'}
+Junction-71599          Junction-71707          {}
+Junction-71707          Junction-75386          {'Junction-71599': 'Pipe-66069', 'Junction-76728': 'Pipe-66129'}
+Junction-72077          Junction-76728          {}
+Junction-72630          Junction-114781          {'Junction-55365': 'Pipe-67123', 'Junction-97918': 'Pipe-135553'}
+Junction-72632          Junction-73054          {}
+Junction-73054          Junction-71596          {'Junction-72632': 'Pipe-64111', 'Junction-77288': 'Pipe-72412'}
+Junction-73056          Junction-77288          {}
+Junction-73295          Junction-73296          {}
+Junction-73296          Junction-99890          {'Junction-73295': 'Pipe-67844', 'Junction-73297': 'Pipe-67845'}
+Junction-73297          Junction-73296          {}
+Junction-73674          Junction-69578          {}
+Junction-74257          Junction-65818          {'Junction-74258': 'Pipe-68855', 'Junction-75222': 'Pipe-70265'}
+Junction-74258          Junction-74257          {'Junction-57062': 'Pipe-53727', 'Hommaksenkaari_EMP': 'Pipe-71739'}
+Junction-74498          Junction-100018          {'Junction-98926': 'Pipe-101254', 'Junction-99703': 'Pipe-101258'}
+Junction-74927          Junction-55861          {}
+Junction-75222          Junction-74257          {}
+Junction-75386          Junction-100420          {'Junction-71707': 'Pipe-70120', 'Junction-75387': 'Pipe-70121'}
+Junction-75387          Junction-75386          {'Junction-75752': 'Pipe-101812'}
+Junction-75388          Junction-75752          {'Junction-75389': 'Pipe-70122', 'Junction-76989': 'Pipe-72048'}
+Junction-75389          Junction-75388          {}
+Junction-75752          Junction-75387          {'Junction-75388': 'Pipe-70411', 'Junction-75753': 'Pipe-70521'}
+Junction-75753          Junction-75752          {'Junction-99819': 'Pipe-100983'}
+Junction-76728          Junction-71707          {'Junction-72077': 'Pipe-71700'}
+Junction-76786          Junction-37845          {}
+Junction-76989          Junction-75388          {}
+Junction-77288          Junction-73054          {'Junction-73056': 'Pipe-71179'}
+Junction-84173          Junction-95084          {'Junction-46597': 'Pipe-44348'}
+Junction-84540          Junction-38652          {}
+Junction-93415          Junction-94512          {}
+Junction-94512          Junction-94517          {'Junction-93415': 'Pipe-95806'}
+Junction-94517          Junction-3224          {'Junction-94512': 'Pipe-94214', 'Junction-95634': 'Pipe-94217'}
+Junction-94616          Junction-96454          {'Junction-96577': 'Pipe-97732', 'Junction-97299': 'Pipe-97733'}
+Junction-94619          Junction-96454          {}
+Junction-94894          Junction-127184          {}
+Junction-94950          Junction-129775          {'Junction-102277': 'Pipe-96853', 'Junction-96958': 'Pipe-135227'}
+Junction-95020          Junction-129775          {}
+Junction-95084          Junction-95085          {'Junction-84173': 'Pipe-94896', 'Junction-97993': 'Pipe-98721'}
+Junction-95085          Junction-96845          {'Junction-95084': 'Pipe-94898', 'Junction-40961': 'Pipe-98728'}
+Junction-95215          Junction-102277          {'Junction-95216': 'Pipe-95061'}
+Junction-95216          Junction-95215          {'Junction-95240': 'Pipe-95212', 'Junction-95354': 'Pipe-95214'}
+Junction-95240          Junction-95216          {'Junction-95242': 'Pipe-95193', 'Junction-96634': 'Pipe-97240'}
+Junction-95242          Junction-95240          {}
+Junction-95284          Junction-96958          {'Junction-95285': 'Pipe-95141', 'Junction-95286': 'Pipe-95142'}
+Junction-95285          Junction-95284          {'Junction-96849': 'Pipe-97126'}
+Junction-95286          Junction-95284          {}
+Junction-95354          Junction-95216          {}
+Junction-95618          Junction-64781          {'Junction-95940': 'Pipe-96040', 'Junction-95942': 'Pipe-96046'}
+Junction-95634          Junction-94517          {'Junction-95635': 'Pipe-95573', 'Junction-129775': 'Pipe-135500'}
+Junction-95635          Junction-95634          {}
+Junction-95940          Junction-95618          {'Junction-71596': 'Pipe-96825', 'Junction-31657': 'Pipe-98998'}
+Junction-95942          Junction-95618          {}
+Junction-96222          Junction-96224          {'Junction-2227': 'Pipe-14775', 'Junction-26246': 'Pipe-96386'}
+Junction-96224          Junction-97934          {'Junction-96222': 'Pipe-96387', 'Junction-96226': 'Pipe-96388'}
+Junction-96226          Junction-96224          {}
+Junction-96454          Junction-96514          {'Junction-94619': 'Pipe-94317', 'Junction-94616': 'Pipe-98015'}
+Junction-96512          Junction-98397          {'Junction-96810': 'Pipe-97456', 'Junction-98399': 'Pipe-99283'}
+Junction-96514          Junction-98397          {'Junction-96454': 'Pipe-95932', 'Junction-97499': 'Pipe-98037'}
+Junction-96577          Junction-94616          {'Junction-97159': 'Pipe-98089', 'Junction-97575': 'Pipe-98155'}
+Junction-96634          Junction-95240          {'Junction-96635': 'Pipe-96860'}
+Junction-96635          Junction-96634          {}
+Junction-96810          Junction-96512          {'Junction-97501': 'Pipe-98046'}
+Junction-96845          Junction-96849          {'Junction-96846': 'Pipe-97121', 'Junction-95085': 'Pipe-99111'}
+Junction-96846          Junction-96845          {}
+Junction-96849          Junction-95285          {'Junction-96845': 'Pipe-97122', 'Junction-96850': 'Pipe-97125'}
+Junction-96850          Junction-96849          {}
+Junction-96900          Junction-127174          {}
+Junction-96958          Junction-94950          {'Junction-95284': 'Pipe-97176', 'Junction-98390': 'Pipe-99266'}
+Junction-96962          Junction-66675          {'Junction-96963': 'Pipe-97278', 'Junction-127314': 'Pipe-135588'}
+Junction-96963          Junction-96962          {'Junction-98261': 'Pipe-99076', 'Junction-98262': 'Pipe-99077'}
+Junction-97113          Junction-32341          {}
+Junction-97159          Junction-96577          {'Junction-129247': 'Pipe-135347', 'Junction-97160': 'Pipe-135492'}
+Junction-97160          Junction-97159          {}
+Junction-97180          Junction-917          {'Junction-97898': 'Pipe-110855', 'Junction-9062': 'Pipe-119816'}
+Junction-97299          Junction-94616          {}
+Junction-97373          Junction-98243          {'Junction-120722': 'Pipe-98398', 'Junction-97751': 'Pipe-99531'}
+Junction-97499          Junction-96514          {}
+Junction-97501          Junction-96810          {}
+Junction-97575          Junction-96577          {'Junction-97576': 'Pipe-98152'}
+Junction-97576          Junction-97575          {}
+Junction-97749          Junction-97751          {'Junction-3165': 'Pipe-98390'}
+Junction-97751          Junction-97373          {'Junction-97749': 'Pipe-98394'}
+Junction-97753          Junction-120847          {'Junction-97754': 'Pipe-98395'}
+Junction-97754          Junction-97753          {}
+Junction-97767          Junction-50282          {'Junction-99902': 'Pipe-98403', 'Junction-97769': 'Pipe-98408'}
+Junction-97769          Junction-97767          {}
+Junction-97770          Junction-50282          {'Junction-99645': 'Pipe-100768', 'Junction-99866': 'Pipe-110935'}
+Junction-97774          Junction-97775          {}
+Junction-97775          Junction-100035          {'Junction-97774': 'Pipe-98414', 'Junction-40791': 'Pipe-98415'}
+Junction-97898          Junction-97180          {}
+Junction-97918          Junction-72630          {}
+Junction-97934          Junction-9252          {'Junction-96224': 'Pipe-100730', 'Junction-99438': 'Pipe-120081'}
+Junction-97937          Junction-99110          {'Junction-9252': 'Pipe-98645', 'Junction-9492': 'Pipe-101725'}
+Junction-97993          Junction-95084          {}
+Junction-97997          Junction-40961          {}
+Junction-98040          Junction-18916          {'Junction-99519': 'Pipe-100623', 'Junction-127385': 'Pipe-135573'}
+Junction-98224          Junction-4364          {'Junction-30008': 'Pipe-99815', 'Junction-129191': 'Pipe-136113'}
+Junction-98228          Junction-106045          {}
+Junction-98243          Junction-909          {'Junction-98676': 'Pipe-99654', 'Junction-97373': 'Pipe-123862'}
+Junction-98261          Junction-96963          {}
+Junction-98262          Junction-96963          {}
+Junction-98264          Junction-127291          {}
+Junction-98390          Junction-96958          {}
+Junction-98397          Junction-111157          {'Junction-96514': 'Pipe-99279', 'Junction-96512': 'Pipe-99286'}
+Junction-98399          Junction-96512          {}
+Junction-98413          Junction-42761          {}
+Junction-98461          Junction-98465          {}
+Junction-98465          Junction-127265          {'Junction-116837': 'Pipe-135643', 'Junction-98461': 'Pipe-136114'}
+Junction-98582          Junction-34066          {}
+Junction-98583          Junction-98673          {}
+Junction-98673          Junction-34066          {'Junction-98583': 'Pipe-99645'}
+Junction-98676          Junction-98243          {}
+Junction-98710          Junction-99019          {'Junction-99326': 'Pipe-99695', 'Junction-34444': 'Pipe-119915'}
+Junction-98717          Junction-98719          {'Junction-98718': 'Pipe-99712', 'Junction-100339': 'Pipe-101688'}
+Junction-98718          Junction-98717          {}
+Junction-98719          Junction-98720          {'Junction-98717': 'Pipe-99713', 'Junction-100340': 'Pipe-101689'}
+Junction-98720          Junction-99884          {'Junction-98719': 'Pipe-99714', 'Junction-98721': 'Pipe-99715'}
+Junction-98721          Junction-98720          {}
+Junction-98722          Junction-99884          {'Junction-98723': 'Pipe-99716', 'Junction-99630': 'Pipe-101774'}
+Junction-98723          Junction-98722          {'Junction-100436': 'Pipe-101846', 'Junction-100437': 'Pipe-101847'}
+Junction-98724          Junction-99889          {'Junction-98725': 'Pipe-99717', 'Junction-99884': 'Pipe-101065'}
+Junction-98725          Junction-98724          {}
+Junction-98729          Junction-129043          {}
+Junction-98765          Junction-99278          {}
+Junction-98830          Junction-13700          {'Junction-100420': 'Pipe-101140', 'Junction-99032': 'Pipe-101671'}
+Junction-98833          Junction-98841          {}
+Junction-98841          Junction-99485          {'Junction-98833': 'Pipe-99847', 'Junction-18016': 'Pipe-100796'}
+Junction-98844          Junction-98849          {}
+Junction-98849          Junction-99130          {'Junction-98844': 'Pipe-99856'}
+Junction-98858          Junction-98860          {}
+Junction-98860          Junction-2147          {'Junction-98858': 'Pipe-99870', 'Junction-65528': 'Pipe-100029'}
+Junction-98867          Junction-99133          {'Junction-99110': 'Pipe-99916', 'Junction-98909': 'Pipe-99924'}
+Junction-98869          Junction-98873          {'Junction-9802': 'Pipe-9503', 'Junction-98870': 'Pipe-99878'}
+Junction-98870          Junction-98869          {}
+Junction-98873          Junction-98882          {'Junction-98869': 'Pipe-99880', 'Junction-98874': 'Pipe-99884'}
+Junction-98874          Junction-98873          {'Junction-98875': 'Pipe-99882', 'Junction-98876': 'Pipe-99883'}
+Junction-98875          Junction-98874          {}
+Junction-98876          Junction-98874          {}
+Junction-98878          Junction-37845          {'Junction-98879': 'Pipe-99886', 'Junction-98882': 'Pipe-99890'}
+Junction-98879          Junction-98878          {}
+Junction-98881          Junction-98882          {}
+Junction-98882          Junction-98878          {'Junction-98873': 'Pipe-99885', 'Junction-98881': 'Pipe-99888'}
+Junction-98907          Junction-98909          {'Junction-98908': 'Pipe-99917', 'Junction-98912': 'Pipe-99920'}
+Junction-98908          Junction-98907          {}
+Junction-98909          Junction-98867          {'Junction-98910': 'Pipe-99918', 'Junction-98907': 'Pipe-99923'}
+Junction-98910          Junction-98909          {}
+Junction-98912          Junction-98907          {}
+Junction-98919          Junction-99723          {}
+Junction-98922          Junction-65389          {'Junction-37885': 'Pipe-101672', 'Junction-99723': 'Pipe-101676'}
+Junction-98926          Junction-74498          {'Junction-98927': 'Pipe-99934', 'Junction-100269': 'Pipe-101608'}
+Junction-98927          Junction-98926          {}
+Junction-98936          Junction-99277          {'Junction-39156': 'Pipe-99943', 'Junction-100168': 'Pipe-101454'}
+Junction-99004          Junction-17277          {}
+Junction-99006          Junction-8112          {'Junction-99081': 'Pipe-100092', 'Junction-99080': 'Pipe-100093'}
+Junction-99010          Junction-127164          {'Junction-99830': 'Pipe-98412', 'Junction-8112': 'Pipe-100021'}
+Junction-99013          Junction-127160          {}
+Junction-99018          Junction-33431          {'Junction-99019': 'Pipe-100033'}
+Junction-99019          Junction-99018          {'Junction-99783': 'Pipe-100940', 'Junction-98710': 'Pipe-120063'}
+Junction-99032          Junction-98830          {'Junction-99651': 'Pipe-101659', 'Junction-65389': 'Pipe-101669'}
+Junction-99048          Junction-99052          {'Junction-99690': 'Pipe-101180', 'Junction-100043': 'Pipe-101607'}
+Junction-99051          Junction-99052          {}
+Junction-99052          Junction-60613          {'Junction-99051': 'Pipe-100059', 'Junction-99048': 'Pipe-101181'}
+Junction-99053          Junction-2360          {'Junction-99054': 'Pipe-100062', 'Junction-99323': 'Pipe-100384'}
+Junction-99054          Junction-99053          {}
+Junction-99073          Junction-99828          {'Junction-99074': 'Pipe-100086', 'Junction-99936': 'Pipe-101125'}
+Junction-99074          Junction-99073          {}
+Junction-99075          Junction-64021          {'Junction-99076': 'Pipe-100087', 'Junction-99077': 'Pipe-100088'}
+Junction-99076          Junction-99075          {}
+Junction-99077          Junction-99075          {}
+Junction-99079          Junction-99080          {}
+Junction-99080          Junction-99006          {'Junction-99079': 'Pipe-100089', 'Junction-64021': 'Pipe-100091'}
+Junction-99081          Junction-99006          {}
+Junction-99082          Junction-8112          {}
+Junction-99083          Junction-99466          {'Junction-99084': 'Pipe-100096', 'Junction-99085': 'Pipe-100097'}
+Junction-99084          Junction-99083          {}
+Junction-99085          Junction-99083          {}
+Junction-99087          Junction-99088          {}
+Junction-99088          Junction-99089          {'Junction-99087': 'Pipe-100098', 'Junction-99465': 'Pipe-100557', 'Junction-99466': 'Pipe-100560'}
+Junction-99089          Junction-99463          {'Junction-99090': 'Pipe-100100', 'Junction-99088': 'Pipe-100101'}
+Junction-99090          Junction-99089          {}
+Junction-99093          Junction-99462          {}
+Junction-99094          Junction-99461          {'Junction-99095': 'Pipe-100104', 'Junction-99096': 'Pipe-100105'}
+Junction-99095          Junction-99094          {}
+Junction-99096          Junction-99094          {}
+Junction-99110          Junction-9802          {'Junction-97937': 'Pipe-101726'}
+Junction-99111          Junction-65528          {'Junction-105276': 'Pipe-110945', 'Junction-100287': 'Pipe-120088'}
+Junction-99114          Junction-99115          {'Junction-99395': 'Pipe-101311'}
+Junction-99115          Junction-100050          {'Junction-99114': 'Pipe-100123', 'Junction-100054': 'Pipe-101308'}
+Junction-99119          Junction-99121          {}
+Junction-99121          Junction-99974          {'Junction-99119': 'Pipe-100125', 'Junction-99613': 'Pipe-100732'}
+Junction-99130          Junction-99395          {'Junction-98849': 'Pipe-99865', 'Junction-47088': 'Pipe-100135'}
+Junction-99133          Junction-47088          {'Junction-98867': 'Pipe-100138', 'Junction-99790': 'Pipe-100952'}
+Junction-99182          Junction-99321          {'Junction-51737': 'Pipe-100211'}
+Junction-99186          Junction-99513          {}
+Junction-99198          Junction-9252          {}
+Junction-99226          Junction-99671          {'Junction-99794': 'Pipe-100266', 'Junction-99701': 'Pipe-100836'}
+Junction-99237          Junction-105282          {'Junction-99238': 'Pipe-100280', 'Junction-105274': 'Pipe-110904'}
+Junction-99238          Junction-99237          {}
+Junction-99247          Junction-65389          {}
+Junction-99277          Junction-99364          {'Junction-98936': 'Pipe-37284', 'Junction-99278': 'Pipe-100328'}
+Junction-99278          Junction-99277          {'Junction-98765': 'Pipe-100962', 'Junction-99693': 'Pipe-101219'}
+Junction-99286          Junction-22175          {}
+Junction-99292          Junction-64134          {}
+Junction-99304          Junction-51737          {'Junction-100124': 'Pipe-101396'}
+Junction-99307          Junction-41031          {}
+Junction-99319          Junction-99321          {'Junction-99559': 'Pipe-100668'}
+Junction-99321          Junction-33432          {'Junction-99182': 'Pipe-100034', 'Junction-99319': 'Pipe-100378'}
+Junction-99323          Junction-99053          {}
+Junction-99326          Junction-98710          {'Junction-69578': 'Pipe-101760'}
+Junction-99330          Junction-99703          {'Junction-45717': 'Pipe-101272', 'Junction-100334': 'Pipe-101684'}
+Junction-99350          Junction-99438          {'Junction-99351': 'Pipe-100416', 'Junction-99803': 'Pipe-100617'}
+Junction-99351          Junction-99350          {}
+Junction-99360          Junction-30728          {'Junction-99361': 'Pipe-100432', 'Junction-99364': 'Pipe-100435'}
+Junction-99361          Junction-99360          {}
+Junction-99363          Junction-99364          {}
+Junction-99364          Junction-99360          {'Junction-99363': 'Pipe-100433', 'Junction-99277': 'Pipe-100879'}
+Junction-99368          Junction-41008          {'Junction-16278': 'Pipe-99977', 'Junction-30728': 'Pipe-100440'}
+Junction-99373          Junction-99375          {}
+Junction-99375          Junction-99634          {'Junction-99373': 'Pipe-110907', 'Junction-99376': 'Pipe-110929'}
+Junction-99376          Junction-99375          {'Junction-99377': 'Pipe-100446', 'Junction-99424': 'Pipe-100761'}
+Junction-99377          Junction-99376          {}
+Junction-99395          Junction-99114          {'Junction-99130': 'Pipe-100472', 'Junction-100058': 'Pipe-101313'}
+Junction-99424          Junction-99376          {}
+Junction-99438          Junction-97934          {'Junction-99350': 'Pipe-100513', 'Junction-55566': 'Pipe-100566'}
+Junction-99461          Junction-99826          {'Junction-99094': 'Pipe-100554', 'Junction-99462': 'Pipe-100564'}
+Junction-99462          Junction-99461          {'Junction-99093': 'Pipe-100103', 'Junction-99463': 'Pipe-100630'}
+Junction-99463          Junction-99462          {'Junction-99464': 'Pipe-100556', 'Junction-99089': 'Pipe-100561'}
+Junction-99464          Junction-99463          {}
+Junction-99465          Junction-99088          {}
+Junction-99466          Junction-99088          {'Junction-99467': 'Pipe-100558', 'Junction-99083': 'Pipe-100559'}
+Junction-99467          Junction-99466          {}
+Junction-99472          Junction-55566          {}
+Junction-99473          Junction-55565          {}
+Junction-99479          Junction-64013          {'Junction-10519': 'Pipe-100577', 'Junction-99484': 'Pipe-100580'}
+Junction-99484          Junction-99479          {}
+Junction-99485          Junction-18065          {'Junction-98841': 'Pipe-99854'}
+Junction-99513          Junction-100337          {'Junction-99186': 'Pipe-100216', 'Junction-99515': 'Pipe-100619'}
+Junction-99515          Junction-99513          {'Junction-99517': 'Pipe-100748', 'Junction-99826': 'Pipe-100994'}
+Junction-99516          Junction-99517          {}
+Junction-99517          Junction-99515          {'Junction-99516': 'Pipe-100620', 'Junction-99625': 'Pipe-100747'}
+Junction-99519          Junction-98040          {}
+Junction-99525          Junction-41008          {'Junction-99526': 'Pipe-100629', 'Junction-100018': 'Pipe-101252'}
+Junction-99526          Junction-99525          {'Junction-100262': 'Pipe-101599'}
+Junction-99528          Junction-100035          {}
+Junction-99534          Junction-99536          {'Junction-37011': 'Pipe-100642', 'Junction-99535': 'Pipe-100643'}
+Junction-99535          Junction-99534          {}
+Junction-99536          Junction-99539          {'Junction-99534': 'Pipe-100644', 'Junction-99537': 'Pipe-100645', 'Junction-99538': 'Pipe-100646'}
+Junction-99537          Junction-99536          {}
+Junction-99538          Junction-99536          {}
+Junction-99539          Junction-100277          {'Junction-99536': 'Pipe-100647', 'Junction-100274': 'Pipe-101616'}
+Junction-99540          Junction-128246          {'Junction-99542': 'Pipe-100649', 'Junction-131108': 'Pipe-135605'}
+Junction-99542          Junction-99540          {}
+Junction-99544          Junction-128247          {}
+Junction-99559          Junction-99319          {}
+Junction-99593          Junction-127924          {'Junction-100102': 'Pipe-101369', 'Junction-100103': 'Pipe-101370'}
+Junction-99598          Junction-33957          {}
+Junction-99613          Junction-99121          {}
+Junction-99625          Junction-99517          {}
+Junction-99626          Junction-99630          {'Junction-99627': 'Pipe-100749', 'Junction-99628': 'Pipe-100750'}
+Junction-99627          Junction-99626          {}
+Junction-99628          Junction-99626          {}
+Junction-99630          Junction-98722          {'Junction-99626': 'Pipe-100752', 'Junction-99631': 'Pipe-100754'}
+Junction-99631          Junction-99630          {'Junction-99632': 'Pipe-100753', 'Junction-100337': 'Pipe-101776'}
+Junction-99632          Junction-99631          {}
+Junction-99634          Junction-2150          {'Junction-99635': 'Pipe-100755', 'Junction-99375': 'Pipe-110928'}
+Junction-99635          Junction-99634          {}
+Junction-99645          Junction-97770          {}
+Junction-99647          Junction-99651          {}
+Junction-99651          Junction-99032          {'Junction-99647': 'Pipe-100771', 'Junction-99653': 'Pipe-100776'}
+Junction-99653          Junction-99651          {}
+Junction-99655          Junction-18016          {}
+Junction-99668          Junction-99671          {}
+Junction-99671          Junction-99693          {'Junction-99668': 'Pipe-100800', 'Junction-99226': 'Pipe-100827'}
+Junction-99690          Junction-99048          {'Junction-37844': 'Pipe-100822', 'Junction-100042': 'Pipe-101291'}
+Junction-99693          Junction-55565          {'Junction-99671': 'Pipe-100825'}
+Junction-99701          Junction-99226          {}
+Junction-99702          Junction-9551          {'Junction-19194': 'Pipe-100837'}
+Junction-99703          Junction-74498          {'Junction-99330': 'Pipe-100390', 'Junction-100332': 'Pipe-101683'}
+Junction-99723          Junction-98922          {'Junction-54118': 'Pipe-100862', 'Junction-98919': 'Pipe-101565'}
+Junction-99727          Junction-54118          {}
+Junction-99755          Junction-99756          {'Junction-127246': 'Pipe-100899', 'Junction-49349': 'Pipe-101056'}
+Junction-99756          Junction-99828          {'Junction-99755': 'Pipe-100900', 'Junction-99757': 'Pipe-100901'}
+Junction-99757          Junction-99756          {}
+Junction-99760          Junction-100357          {'Junction-100290': 'Pipe-101825', 'Junction-100443': 'Pipe-101854'}
+Junction-99781          Junction-34547          {'Junction-36047': 'Pipe-31699', 'Junction-99890': 'Pipe-101225'}
+Junction-99783          Junction-99019          {'Junction-56146': 'Pipe-61909', 'Junction-100239': 'Pipe-101559'}
+Junction-99790          Junction-99133          {}
+Junction-99794          Junction-99226          {}
+Junction-99803          Junction-99350          {}
+Junction-99816          Junction-9548          {'Junction-99818': 'Pipe-100981'}
+Junction-99818          Junction-99816          {}
+Junction-99819          Junction-75753          {}
+Junction-99822          Junction-1396          {}
+Junction-99826          Junction-99515          {'Junction-99461': 'Pipe-100565', 'Junction-99827': 'Pipe-100993'}
+Junction-99827          Junction-99826          {}
+Junction-99828          Junction-64021          {'Junction-99756': 'Pipe-100995', 'Junction-99073': 'Pipe-101002'}
+Junction-99830          Junction-99010          {'Junction-33957': 'Pipe-101597'}
+Junction-99866          Junction-97770          {}
+Junction-99869          Junction-99870          {'Junction-100246': 'Pipe-101574', 'Junction-100249': 'Pipe-101575'}
+Junction-99870          Junction-99872          {'Junction-99869': 'Pipe-101045', 'Junction-99871': 'Pipe-101047'}
+Junction-99871          Junction-99870          {}
+Junction-99872          Junction-99874          {'Junction-99870': 'Pipe-101048', 'Junction-99873': 'Pipe-101049'}
+Junction-99873          Junction-99872          {}
+Junction-99874          Junction-99876          {'Junction-99872': 'Pipe-101050', 'Junction-99875': 'Pipe-101051'}
+Junction-99875          Junction-99874          {}
+Junction-99876          Junction-49349          {'Junction-99874': 'Pipe-101052', 'Junction-99877': 'Pipe-101053'}
+Junction-99877          Junction-99876          {}
+Junction-99878          Junction-49349          {}
+Junction-99880          Junction-127246          {'Junction-99881': 'Pipe-101058'}
+Junction-99881          Junction-99880          {}
+Junction-99884          Junction-98724          {'Junction-98720': 'Pipe-101061', 'Junction-98722': 'Pipe-101062'}
+Junction-99889          Junction-45717          {'Junction-98724': 'Pipe-101068', 'Junction-100336': 'Pipe-101686'}
+Junction-99890          Junction-99781          {'Junction-64134': 'Pipe-101071', 'Junction-73296': 'Pipe-101224'}
+Junction-99902          Junction-97767          {}
+Junction-99936          Junction-99073          {}
+Junction-99974          Junction-100381          {'Junction-100050': 'Pipe-101302', 'Junction-99121': 'Pipe-101693'}
+Junction-100018          Junction-99525          {'Junction-74498': 'Pipe-69099', 'Junction-100019': 'Pipe-101255'}
+Junction-100019          Junction-100018          {}
+Junction-100035          Junction-2147          {'Junction-99528': 'Pipe-101281', 'Junction-97775': 'Pipe-101283'}
+Junction-100039          Junction-6710          {}
+Junction-100042          Junction-99690          {}
+Junction-100043          Junction-99048          {}
+Junction-100050          Junction-99974          {'Junction-100052': 'Pipe-101303', 'Junction-99115': 'Pipe-101307'}
+Junction-100052          Junction-100050          {}
+Junction-100054          Junction-99115          {}
+Junction-100058          Junction-99395          {}
+Junction-100086          Junction-100239          {'Junction-100403': 'Pipe-101354', 'Junction-100094': 'Pipe-101356'}
+Junction-100094          Junction-100086          {'Junction-100097': 'Pipe-101365', 'Junction-100100': 'Pipe-101367'}
+Junction-100096          Junction-100097          {}
+Junction-100097          Junction-100094          {'Junction-100096': 'Pipe-101362', 'Junction-100098': 'Pipe-101364'}
+Junction-100098          Junction-100097          {}
+Junction-100100          Junction-100094          {}
+Junction-100102          Junction-99593          {}
+Junction-100103          Junction-99593          {}
+Junction-100104          Junction-1512          {}
+Junction-100105          Junction-1512          {}
+Junction-100107          Junction-100110          {}
+Junction-100110          Junction-10018          {'Junction-100107': 'Pipe-101374', 'Junction-100111': 'Pipe-101378'}
+Junction-100111          Junction-100110          {}
+Junction-100121          Junction-69578          {'Junction-100156': 'Pipe-101388'}
+Junction-100124          Junction-99304          {}
+Junction-100156          Junction-100121          {}
+Junction-100168          Junction-98936          {}
+Junction-100172          Junction-61093          {}
+Junction-100179          Junction-40791          {}
+Junction-100220          Junction-100224          {}
+Junction-100224          Junction-100228          {'Junction-100220': 'Pipe-101538', 'Junction-100227': 'Pipe-101543'}
+Junction-100225          Junction-19192          {'Junction-100381': 'Pipe-100124', 'Junction-100228': 'Pipe-101546'}
+Junction-100227          Junction-100224          {}
+Junction-100228          Junction-100225          {'Junction-100224': 'Pipe-101544', 'Junction-100229': 'Pipe-101545'}
+Junction-100229          Junction-100228          {}
+Junction-100231          Junction-19192          {}
+Junction-100239          Junction-99783          {'Junction-100402': 'Pipe-101780', 'Junction-100086': 'Pipe-101781'}
+Junction-100240          Junction-1513          {}
+Junction-100241          Junction-1513          {}
+Junction-100245          Junction-6710          {'Junction-100288': 'Pipe-101632', 'Junction-100289': 'Pipe-101633'}
+Junction-100246          Junction-99869          {'Junction-6710': 'Pipe-101572', 'Junction-100247': 'Pipe-101573'}
+Junction-100247          Junction-100246          {}
+Junction-100249          Junction-99869          {}
+Junction-100261          Junction-2042          {}
+Junction-100262          Junction-99526          {}
+Junction-100264          Junction-100266          {}
+Junction-100266          Junction-30414          {'Junction-100264': 'Pipe-101601', 'Junction-100267': 'Pipe-101603'}
+Junction-100267          Junction-100266          {}
+Junction-100269          Junction-98926          {}
+Junction-100271          Junction-128247          {}
+Junction-100272          Junction-100274          {'Junction-100273': 'Pipe-101613', 'Junction-128246': 'Pipe-135692'}
+Junction-100273          Junction-100272          {}
+Junction-100274          Junction-99539          {'Junction-100272': 'Pipe-101614', 'Junction-100275': 'Pipe-101615'}
+Junction-100275          Junction-100274          {}
+Junction-100277          Junction-127414          {'Junction-99539': 'Pipe-101618', 'Junction-100278': 'Pipe-101619'}
+Junction-100278          Junction-100277          {}
+Junction-100287          Junction-99111          {'Junction-41008': 'Pipe-101201'}
+Junction-100288          Junction-100245          {}
+Junction-100289          Junction-100245          {}
+Junction-100290          Junction-99760          {'Junction-100291': 'Pipe-101634', 'Junction-100292': 'Pipe-101696'}
+Junction-100291          Junction-100290          {}
+Junction-100292          Junction-100290          {'Junction-100293': 'Pipe-101635', 'Junction-100294': 'Pipe-101824'}
+Junction-100293          Junction-100292          {}
+Junction-100294          Junction-100292          {'Junction-100295': 'Pipe-101636', 'Junction-100305': 'Pipe-101645'}
+Junction-100295          Junction-100294          {}
+Junction-100296          Junction-100305          {'Junction-100297': 'Pipe-101637', 'Junction-100298': 'Pipe-101643'}
+Junction-100297          Junction-100296          {}
+Junction-100298          Junction-100296          {'Junction-100299': 'Pipe-101638', 'Junction-100300': 'Pipe-101642'}
+Junction-100299          Junction-100298          {}
+Junction-100300          Junction-100298          {'Junction-100301': 'Pipe-101639', 'Junction-100303': 'Pipe-101640'}
+Junction-100301          Junction-100300          {}
+Junction-100303          Junction-100300          {}
+Junction-100305          Junction-100294          {'Junction-100440': 'Pipe-101852', 'Junction-100296': 'Pipe-101853'}
+Junction-100318          Junction-37885          {}
+Junction-100332          Junction-99703          {'Junction-100333': 'Pipe-101682', 'Junction-100357': 'Pipe-101710'}
+Junction-100333          Junction-100332          {}
+Junction-100334          Junction-99330          {}
+Junction-100335          Junction-45717          {}
+Junction-100336          Junction-99889          {'Junction-100438': 'Pipe-101848', 'Junction-100439': 'Pipe-101849'}
+Junction-100337          Junction-99631          {'Junction-99513': 'Pipe-100618', 'Junction-100338': 'Pipe-101687'}
+Junction-100338          Junction-100337          {}
+Junction-100339          Junction-98717          {}
+Junction-100340          Junction-98719          {}
+Junction-100357          Junction-100332          {'Junction-99760': 'Pipe-100904', 'Junction-100444': 'Pipe-101855'}
+Junction-100359          Junction-16278          {'Junction-41620': 'Pipe-101711'}
+Junction-100368          Junction-18027          {'Junction-9548': 'Pipe-101731', 'Junction-129103': 'Pipe-133347'}
+Junction-100381          Junction-100225          {'Junction-100382': 'Pipe-101744', 'Junction-99974': 'Pipe-101745'}
+Junction-100382          Junction-100381          {}
+Junction-100388          Junction-12748          {'Junction-33432': 'Pipe-101755'}
+Junction-100402          Junction-100239          {}
+Junction-100403          Junction-100086          {}
+Junction-100420          Junction-98830          {'Junction-75386': 'Pipe-101816'}
+Junction-100427          Junction-127411          {}
+Junction-100436          Junction-98723          {}
+Junction-100437          Junction-98723          {}
+Junction-100438          Junction-100336          {}
+Junction-100439          Junction-100336          {}
+Junction-100440          Junction-100305          {'Junction-100441': 'Pipe-101850', 'Junction-100442': 'Pipe-101851'}
+Junction-100441          Junction-100440          {}
+Junction-100442          Junction-100440          {}
+Junction-100443          Junction-99760          {}
+Junction-100444          Junction-100357          {}
+Junction-101660          Ericsson          {'Junction-29936': 'Pipe-51587', 'Junction-58617': 'Pipe-102913'}
+Junction-101919          Junction-105560          {'Junction-102990': 'Pipe-104142'}
+Junction-102036          Junction-28618          {'Junction-102637': 'Pipe-103760', 'Junction-48688': 'Pipe-104734'}
+Junction-102277          Junction-94950          {'Junction-103322': 'Pipe-104517', 'Junction-95215': 'Pipe-104735'}
+Junction-102637          Junction-102036          {}
+Junction-102990          Junction-101919          {'Junction-3673': 'Pipe-103402'}
+Junction-103003          Junction-128637          {}
+Junction-103293          Junction-103322          {}
+Junction-103313          Junction-103455          {'Junction-128816': 'Pipe-135821'}
+Junction-103322          Junction-102277          {'Junction-103293': 'Pipe-104469'}
+Junction-103455          Junction-9808          {'Junction-103313': 'Pipe-104496'}
+Junction-105118          Junction-105140          {}
+Junction-105140          Junction-20377          {'Junction-105118': 'Pipe-106599', 'Junction-16565': 'Pipe-109052'}
+Junction-105274          Junction-99237          {'Junction-50281': 'Pipe-106740'}
+Junction-105276          Junction-99111          {'Junction-105282': 'Pipe-110957'}
+Junction-105282          Junction-105276          {'Junction-99237': 'Pipe-110953'}
+Junction-105411          Junction-30008          {}
+Junction-105540          Junction-1044          {'Junction-1036': 'Pipe-106999', 'Junction-105814': 'Pipe-107272'}
+Junction-105543          Junction-105560          {}
+Junction-105560          Junction-9062          {'Junction-105543': 'Pipe-107007', 'Junction-101919': 'Pipe-107018'}
+Junction-105562          Junction-1455          {}
+Junction-105810          Junction-105811          {}
+Junction-105811          Junction-105812          {'Junction-105810': 'Pipe-107262'}
+Junction-105812          Junction-105814          {'Junction-105813': 'Pipe-107263', 'Junction-105811': 'Pipe-107264'}
+Junction-105813          Junction-105812          {}
+Junction-105814          Junction-105540          {'Junction-105812': 'Pipe-107265'}
+Junction-106045          Junction-106048          {'Junction-98228': 'Pipe-110839'}
+Junction-106048          Junction-106088          {'Junction-106045': 'Pipe-107523', 'Junction-106055': 'Pipe-107556'}
+Junction-106055          Junction-106048          {'Junction-41284': 'Pipe-107532', 'Junction-106057': 'Pipe-107551'}
+Junction-106057          Junction-106055          {'Junction-1704': 'Pipe-110833'}
+Junction-106088          Junction-907          {'Junction-106048': 'Pipe-107559'}
+Junction-106090          Junction-106092          {}
+Junction-106092          Junction-31990          {'Junction-106090': 'Pipe-107568', 'Junction-35794': 'Pipe-107571'}
+Junction-106326          Junction-106504          {'Junction-106327': 'Pipe-107814', 'Junction-106501': 'Pipe-108032'}
+Junction-106327          Junction-106326          {}
+Junction-106501          Junction-106326          {}
+Junction-106504          Junction-35794          {'Junction-106326': 'Pipe-108035'}
+Junction-106507          Junction-107214          {}
+Junction-107214          Junction-25543          {'Junction-106507': 'Pipe-108042', 'Junction-35760': 'Pipe-109543'}
+Junction-111142          Junction-111147          {}
+Junction-111147          Junction-22022          {'Junction-111142': 'Pipe-114188', 'Junction-21644': 'Pipe-123849'}
+Junction-111150          Junction-111155          {}
+Junction-111155          Junction-48688          {'Junction-111150': 'Pipe-114194', 'Junction-27084': 'Pipe-114199'}
+Junction-111157          Junction-4076          {'Junction-111160': 'Pipe-114207', 'Junction-98397': 'Pipe-119990'}
+Junction-111160          Junction-111157          {}
+Junction-111171          Junction-111193          {}
+Junction-111193          Junction-165          {'Junction-111171': 'Pipe-114222', 'Junction-8165': 'Pipe-123857'}
+Junction-111196          Junction-111208          {}
+Junction-111208          Junction-10392          {'Junction-111196': 'Pipe-114238', 'Junction-9986': 'Pipe-116559'}
+Junction-111213          Junction-111223          {}
+Junction-111223          Junction-7442          {'Junction-111213': 'Pipe-114253', 'Junction-127219': 'Pipe-134839'}
+Junction-111225          Junction-127332          {'Junction-111228': 'Pipe-114272', 'Junction-14261': 'Pipe-118794'}
+Junction-111228          Junction-111225          {}
+Junction-114744          Junction-37303          {'Junction-34334': 'Pipe-117600', 'Junction-117594': 'Pipe-120849'}
+Junction-114781          Junction-71596          {'Junction-42173': 'Pipe-117658', 'Junction-72630': 'Pipe-119922'}
+Junction-115208          Junction-36469          {'Junction-37596': 'Pipe-118053', 'Junction-117566': 'Pipe-120820'}
+Junction-115682          Junction-48315          {}
+Junction-116686          Junction-13700          {'Junction-20819': 'Pipe-19851', 'Junction-118160': 'Pipe-121410'}
+Junction-116837          Junction-98465          {}
+Junction-116891          Junction-116892          {'Junction-116901': 'Pipe-120098'}
+Junction-116892          Junction-2040          {'Junction-116891': 'Pipe-120080'}
+Junction-116901          Junction-116891          {'Junction-9556': 'Pipe-120100', 'Junction-118151': 'Pipe-121429'}
+Junction-117566          Junction-115208          {}
+Junction-117594          Junction-114744          {}
+Junction-118151          Junction-116901          {}
+Junction-118160          Junction-116686          {}
+Junction-120721          Junction-120722          {'Junction-120847': 'Pipe-124743'}
+Junction-120722          Junction-97373          {'Junction-120721': 'Pipe-124597'}
+Junction-120847          Junction-120721          {'Junction-97753': 'Pipe-126196'}
+Junction-122930          Junction-26248          {'Junction-34033': 'Pipe-127195'}
+Junction-126962          Junction-128917          {'Junction-127158': 'Pipe-131360', 'Junction-20377': 'Pipe-135153'}
+Junction-127158          Junction-126962          {}
+Junction-127160          Junction-127162          {'Junction-99013': 'Pipe-135626'}
+Junction-127162          Junction-127171          {'Junction-127160': 'Pipe-131566', 'Junction-127164': 'Pipe-131569'}
+Junction-127164          Junction-127162          {'Junction-99010': 'Pipe-131577'}
+Junction-127171          Junction-65528          {'Junction-127162': 'Pipe-131572'}
+Junction-127174          Junction-127181          {'Junction-96900': 'Pipe-135590'}
+Junction-127181          Junction-127197          {'Junction-127174': 'Pipe-131578', 'Junction-127182': 'Pipe-131583'}
+Junction-127182          Junction-127181          {'Junction-127184': 'Pipe-131587'}
+Junction-127184          Junction-127182          {'Junction-94894': 'Pipe-135408'}
+Junction-127197          Junction-127314          {'Junction-127181': 'Pipe-131601'}
+Junction-127208          Junction-127219          {'Junction-128333': 'Pipe-132673', 'Junction-128334': 'Pipe-132674'}
+Junction-127219          Junction-111223          {'Junction-127208': 'Pipe-131613', 'Junction-129143': 'Pipe-134826'}
+Junction-127222          Junction-127234          {}
+Junction-127234          Junction-3968          {'Junction-127222': 'Pipe-131624', 'Junction-3534': 'Pipe-134620'}
+Junction-127246          Junction-99755          {'Junction-99880': 'Pipe-120033', 'Junction-128253': 'Pipe-131630'}
+Junction-127265          Junction-66675          {'Junction-128234': 'Pipe-131640', 'Junction-98465': 'Pipe-135646'}
+Junction-127268          Junction-127286          {'Junction-128285': 'Pipe-132621', 'Junction-128286': 'Pipe-132622'}
+Junction-127286          Junction-130756          {'Junction-127268': 'Pipe-132625', 'Junction-66675': 'Pipe-135651'}
+Junction-127291          Junction-127314          {'Junction-98264': 'Pipe-131670'}
+Junction-127293          Junction-127300          {}
+Junction-127300          Junction-127510          {'Junction-127293': 'Pipe-131675'}
+Junction-127302          Junction-127332          {}
+Junction-127314          Junction-96962          {'Junction-127291': 'Pipe-131690', 'Junction-127197': 'Pipe-135414'}
+Junction-127332          Junction-127376          {'Junction-127302': 'Pipe-131686', 'Junction-111225': 'Pipe-136122'}
+Junction-127340          Junction-127376          {}
+Junction-127376          Junction-20377          {'Junction-127340': 'Pipe-131720', 'Junction-127332': 'Pipe-131751'}
+Junction-127378          Junction-127380          {'Junction-127442': 'Pipe-131752', 'Junction-127464': 'Pipe-131835'}
+Junction-127380          Junction-127446          {'Junction-127378': 'Pipe-131753', 'Junction-127411': 'Pipe-131816'}
+Junction-127382          Junction-127383          {'Junction-127924': 'Pipe-132592'}
+Junction-127383          Junction-127387          {'Junction-127382': 'Pipe-131754'}
+Junction-127385          Junction-98040          {'Junction-127386': 'Pipe-131757'}
+Junction-127386          Junction-127385          {'Junction-127387': 'Pipe-131759'}
+Junction-127387          Junction-127386          {'Junction-127383': 'Pipe-131758', 'Junction-127406': 'Pipe-131778'}
+Junction-127406          Junction-127387          {'Junction-2140': 'Pipe-135716'}
+Junction-127409          Junction-128160          {'Junction-127410': 'Pipe-131781'}
+Junction-127410          Junction-127409          {}
+Junction-127411          Junction-127380          {'Junction-100427': 'Pipe-131782'}
+Junction-127412          Junction-127438          {'Junction-127413': 'Pipe-131783'}
+Junction-127413          Junction-127412          {}
+Junction-127414          Junction-127417          {'Junction-100277': 'Pipe-131784'}
+Junction-127417          Junction-127438          {'Junction-127414': 'Pipe-131874', 'Junction-127596': 'Pipe-131963'}
+Junction-127438          Junction-127442          {'Junction-127417': 'Pipe-131806', 'Junction-127412': 'Pipe-131870'}
+Junction-127442          Junction-127378          {'Junction-127438': 'Pipe-131808', 'Junction-127493': 'Pipe-131864'}
+Junction-127446          Junction-128164          {'Junction-127380': 'Pipe-131813'}
+Junction-127464          Junction-127378          {}
+Junction-127493          Junction-127442          {}
+Junction-127510          Junction-128917          {'Junction-127300': 'Pipe-131882'}
+Junction-127514          Junction-127533          {'Junction-127516': 'Pipe-131889', 'Junction-30414': 'Pipe-134974'}
+Junction-127516          Junction-127514          {'Junction-127534': 'Pipe-131906'}
+Junction-127533          Junction-2039          {'Junction-127514': 'Pipe-131905'}
+Junction-127534          Junction-127516          {'Junction-2359': 'Pipe-134525'}
+Junction-127537          Junction-128246          {'Junction-127538': 'Pipe-131909'}
+Junction-127538          Junction-127537          {'Junction-128247': 'Pipe-135691'}
+Junction-127596          Junction-127417          {}
+Junction-127650          Junction-128250          {}
+Junction-127924          Junction-127382          {'Junction-99593': 'Pipe-131780', 'Junction-128160': 'Pipe-132516'}
+Junction-128160          Junction-127924          {'Junction-127409': 'Pipe-132491', 'Junction-128164': 'Pipe-132497'}
+Junction-128162          Junction-128164          {}
+Junction-128164          Junction-128160          {'Junction-128162': 'Pipe-132494', 'Junction-127446': 'Pipe-132496'}
+Junction-128230          Junction-128234          {'Junction-128231': 'Pipe-132556'}
+Junction-128231          Junction-128230          {}
+Junction-128233          Junction-128234          {}
+Junction-128234          Junction-127265          {'Junction-128233': 'Pipe-132558', 'Junction-128230': 'Pipe-132574'}
+Junction-128246          Junction-100272          {'Junction-127537': 'Pipe-131913', 'Junction-99540': 'Pipe-132571'}
+Junction-128247          Junction-127538          {'Junction-99544': 'Pipe-135606', 'Junction-100271': 'Pipe-135690'}
+Junction-128250          Junction-129282          {'Junction-127650': 'Pipe-132023', 'Junction-3565': 'Pipe-132576'}
+Junction-128253          Junction-127246          {}
+Junction-128285          Junction-127268          {}
+Junction-128286          Junction-127268          {}
+Junction-128333          Junction-127208          {}
+Junction-128334          Junction-127208          {}
+Junction-128432          Junction-3534          {'Junction-128433': 'Pipe-132770', 'Junction-3421': 'Pipe-134634'}
+Junction-128433          Junction-128432          {}
+Junction-128439          Junction-41442          {'Junction-128440': 'Pipe-132776', 'Junction-19908': 'Pipe-134938'}
+Junction-128440          Junction-128439          {}
+Junction-128595          Junction-128816          {}
+Junction-128600          Junction-128637          {}
+Junction-128637          Junction-128816          {'Junction-128600': 'Pipe-132952', 'Junction-103003': 'Pipe-135774'}
+Junction-128816          Junction-103313          {'Junction-128595': 'Pipe-132930', 'Junction-128637': 'Pipe-135810'}
+Junction-128917          Junction-6737          {'Junction-127510': 'Pipe-133222', 'Junction-126962': 'Pipe-135079'}
+Junction-129043          Junction-129248          {'Junction-98729': 'Pipe-135674'}
+Junction-129097          Junction-129145          {'Junction-129256': 'Pipe-133572'}
+Junction-129103          Junction-100368          {'Junction-129248': 'Pipe-133428', 'Junction-129250': 'Pipe-133564'}
+Junction-129106          Junction-129111          {'Junction-129107': 'Pipe-133431'}
+Junction-129107          Junction-129106          {}
+Junction-129109          Junction-129111          {}
+Junction-129111          Junction-129113          {'Junction-129109': 'Pipe-133434', 'Junction-129106': 'Pipe-133436'}
+Junction-129113          Junction-129143          {'Junction-129111': 'Pipe-133437'}
+Junction-129143          Junction-127219          {'Junction-129113': 'Pipe-133456'}
+Junction-129145          Junction-129171          {'Junction-129097': 'Pipe-133423', 'Junction-129148': 'Pipe-133485'}
+Junction-129148          Junction-129145          {'Junction-129149': 'Pipe-133470'}
+Junction-129149          Junction-129148          {}
+Junction-129171          Junction-129191          {'Junction-129145': 'Pipe-133486'}
+Junction-129191          Junction-98224          {'Junction-129171': 'Pipe-133494', 'Junction-130756': 'Pipe-135703'}
+Junction-129247          Junction-97159          {'Junction-129285': 'Pipe-133531', 'Junction-50543': 'Pipe-133562'}
+Junction-129248          Junction-129103          {'Junction-129043': 'Pipe-133563'}
+Junction-129250          Junction-129103          {}
+Junction-129256          Junction-129097          {}
+Junction-129272          Junction-129282          {}
+Junction-129282          Junction-3673          {'Junction-129272': 'Pipe-133591', 'Junction-128250': 'Pipe-134648'}
+Junction-129285          Junction-129247          {}
+Junction-129775          Junction-95634          {'Junction-95020': 'Pipe-132017', 'Junction-94950': 'Pipe-136115'}
+Junction-130756          Junction-129191          {'Junction-127286': 'Pipe-135639'}
+Junction-131108          Junction-99540          {}
+Kantvik_EMP          Junction-41587          {}
+Kummihovi_EMP          Junction-41572          {}
+Neidonkallio_EMP_1          Junction-36967          {}
+Neidonkallio_EMP_2          Junction-46680          {}
